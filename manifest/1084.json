@@ -1,0 +1,105 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"id": "http://localhost/iiif/manifest/1084.json",
+	"type": "Manifest",
+	"label": {
+		"none": [
+			"Icône - Portret van Eugène Demolder"
+		]
+	},
+	"rights": "http://creativecommons.org/publicdomain/zero/1.0",
+	"requiredStatement": {
+		"label": {
+			"en": [
+				"Attribution"
+			],
+			"nl": [
+				"Auteursrecht"
+			]
+		},
+		"value": {
+			"en": [
+				"If you use our image, we appreciate acknowledgment of the source.<br/>Collection Musea Brugge.<br/>Photo: LUKAS - ART IN FLANDERS vzw<br/>Photographer: Hugo Maertens.<br/>We would like to receive a copy of the publication for our library."
+			],
+			"nl": [
+				"<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a><br/>Als je ons beeld gebruikt, stellen wij bronvermelding op prijs.<br/>Collectie Musea Brugge.<br/>Foto: LUKAS - ART IN FLANDERS vzw<br/>Fotograaf: Hugo Maertens.<br/>Wij ontvangen graag een exemplaar van de publicatie voor onze bibliotheek."
+			]
+		}
+	},
+	"provider": [{
+		"id": "https://kmska.be",
+		"type": "Agent",
+		"label": {
+			"nl": [
+				"Musea Brugge"
+			]
+		},
+		"homepage": [{
+			"id": "https://kmska.be",
+			"type": "Text",
+			"label": {
+				"nl": [
+					"KMSKA website"
+				]
+			},
+			"format": "text/html",
+			"language": [
+				"en", "nl", "fr"
+			]
+		}]
+	}],
+	"summary": {
+		"nl": [
+			"Dit paneel is een portret door James Ensor van zijn goede vriend Eugène Demolder. Deze kunstcriticus was één van de vroegste promotoren van Ensors werk. Hij gaf niet alleen de eerste monografie over de kunstenaar uit, maar organiseerde te Brussel ook diens allereerste individuele tentoonstelling en was tevens de bemiddelaar voor de eerste expositie van Ensor in het buitenland. Daarnaast had Demolder een grote bewondering voor de 15de- en 16de-eeuwse paneelschilderkunst die vooral sedert de laatste decennia van de 19de eeuw herontdekt werd.\nIn dit gedetailleerde psychologische portret verwerkte Ensor op een heel subtiele manier informatie over de interesses en het leven van Demolder. Demolder was een liefhebber van oude kunst (zie het bovenregister met een redelijk nauwgezette kopie van Stefan Lochners “Madonna met Kind in de rozentuin”), schreef graag over het leven van Christus (zie het middenregister met opeenvolgende taferelen uit het passieverhaal van Jezus van Nazareth), hield van rijke texturen en kleurenpracht (zie de diverse fonkelende kleuraccenten in het schilderij) maar werd in zijn tijd ook sterk bekritiseerd (zie het onderste register met de expressieve duivelskoppen)."
+		]
+	},
+	"metadata": [{
+		"label": {
+			"nl": [
+				"Inventarisnummer"
+			]
+		},
+		"value": {
+			"nl": [
+				"2004.GRO0001.I"
+			]
+		}
+	}],
+	"viewingDirection": "left-to-right",
+	"behavior": [
+		"individuals"
+	],
+	"items": [{
+			"id": "http://localhost/iiif/canvas/1084/1.json",
+			"type": "Canvas",
+			"label": {
+				"none": [
+					"1084"
+				]
+			},
+			"height": 7831,
+			"width": 4233,
+			"items": [{
+				"id": "http://localhost/iiif/page/1084/1.json",
+				"type": "AnnotationPage",
+				"items": [{
+					"id": "http://localhost/iiif/annotation/1084/1.json",
+					"type": "Annotation",
+					"motivation": "painting",
+					"body": {
+						"id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/1084.tif/full/full/0/default.jpg",
+						"type": "Image",
+						"format": "image/jpeg",
+						"service": [{
+							"id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/1084.tif",
+							"type": "ImageService2",
+							"profile": "level2"
+						}]
+					},
+					"target": "http://localhost/iiif/canvas/1084/1.json"
+				}]
+			}]
+		}
+
+	]
+}
