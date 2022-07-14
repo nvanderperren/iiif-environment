@@ -69,6 +69,27 @@
 	"behavior": [
 		"individuals"
 	],
+	"seeAlso": [{
+			"id": "https://arthubensor.vlaamsekunstcollectie.be/nl/catalog/groeningemuseum:2004_GRO0001_I.xml",
+			"type": "Dataset",
+			"label": {
+				"none": [
+					"LIDO XML"
+				]
+			},
+			"format": "text/xml"
+		},
+		{
+			"id": "https://arthubensor.vlaamsekunstcollectie.be/nl/catalog/groeningemuseum:2004_GRO0001_I.json",
+			"type": "Dataset",
+			"label": {
+				"none": [
+					"JSON"
+				]
+			},
+			"format": "application/json"
+		}
+	],
 	"items": [{
 			"id": "http://localhost/iiif/canvas/1084/1.json",
 			"type": "Canvas",
