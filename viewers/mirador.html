@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Mirador instantie</title>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500">
+    </head>
+    <body>
+        <div id="mirador"></div>
+
+        <script src="https://unpkg.com/mirador@latest/dist/mirador.min.js"></script>
+        <script type="text/javascript">
+            var mirador = Mirador.viewer({
+                "id": "mirador",
+                "manifests": {
+                     "http://localhost/iiif/manifest/1084.json": {
+                        "provider": "VKC"
+                    }
+                },
+                "windows": [
+                     {
+                        "loadedManifest": "http://localhost/iiif/manifest/1084.json",
+                        "thumbnailNavigationPosition": 'far-bottom'
+                    }
+                ]
+            });
+    
+        </script>
+    </body>
+</html>
