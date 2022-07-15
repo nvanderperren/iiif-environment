@@ -11,15 +11,18 @@
         <script type="text/javascript">
             var mirador = Mirador.viewer({
                 "id": "mirador",
-                "manifests": {
-                     "http://localhost/iiif/manifest/1084.json": {
-                        "provider": "VKC"
-                    }
-                },
+                "catalog": [
+                    { manifestId: "http://localhost/iiif/manifest/1084.json" },
+                    { manifestId: "http://localhost/iiif/manifest/climbing_for_life.json" }
+                ],
                 "windows": [
                      {
-                        "loadedManifest": "http://localhost/iiif/manifest/1084.json",
-                        "thumbnailNavigationPosition": 'far-bottom'
+                        manifestId : "http://localhost/iiif/manifest/1084.json",
+                        thumbnailNavigationPosition : 'far-bottom'
+                    },
+                    {
+                        manifestId : "http://localhost/iiif/manifest/climbing_for_life.json",
+                        thumbnailNavigationPosition : 'far-bottom'
                     }
                 ]
             });
