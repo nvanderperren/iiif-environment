@@ -69,6 +69,19 @@
 	"behavior": [
 		"individuals"
 	],
+	"homepage": [
+		{
+			"id": "https://arthubensor.vlaamsekunstcollectie.be/nl/catalog/groeningemuseum:2004_GRO0001_I",
+			"type": "Text",
+			"label": {
+				"none": [
+					"permalink Arthub Ensor"
+				]
+			},
+			"format": "text/html",
+			"language": ["nl"]
+		}
+	],
 	"seeAlso": [{
 			"id": "https://arthubensor.vlaamsekunstcollectie.be/nl/catalog/groeningemuseum:2004_GRO0001_I.xml",
 			"type": "Dataset",

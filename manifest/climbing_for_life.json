@@ -24,70 +24,68 @@
 		}
 	},
 	"provider": [{
-		"id": "https://www.vrt.be",
-		"type": "Agent",
-		"label": {
-			"nl": [
-				"VRT"
-			]
-		},
-		"homepage": [{
 			"id": "https://www.vrt.be",
-			"type": "Text",
+			"type": "Agent",
 			"label": {
 				"nl": [
-					"VRT website"
+					"VRT"
 				]
 			},
-			"format": "text/html",
-			"language": [
-				"nl", "en"
-			]
-		}]
-	},
-	{
-		"id": "https://meemoo.be",
-		"type": "Agent",
-		"label": {
-			"nl": [
-				"meemoo, Vlaams instituut voor het archief"
-			],
-			"en": [
-				"meemoo, Flemish insitute for archives"
-			]
+			"homepage": [{
+				"id": "https://www.vrt.be",
+				"type": "Text",
+				"label": {
+					"nl": [
+						"VRT website"
+					]
+				},
+				"format": "text/html",
+				"language": [
+					"nl", "en"
+				]
+			}]
 		},
-		"homepage": [{
-			"id": "https://www.meemoo.be",
-			"type": "Text",
+		{
+			"id": "https://meemoo.be",
+			"type": "Agent",
 			"label": {
 				"nl": [
-					"meemoo website"
+					"meemoo, Vlaams instituut voor het archief"
 				],
 				"en": [
-					"meemoo homepage"
-				] 
+					"meemoo, Flemish insitute for archives"
+				]
 			},
-			"format": "text/html",
-			"language": [
-				"nl", "en"
-			]
-		}]
-	}
-],
+			"homepage": [{
+				"id": "https://www.meemoo.be",
+				"type": "Text",
+				"label": {
+					"nl": [
+						"meemoo website"
+					],
+					"en": [
+						"meemoo homepage"
+					]
+				},
+				"format": "text/html",
+				"language": [
+					"nl", "en"
+				]
+			}]
+		}
+	],
 	"summary": {
 		"nl": [
 			"reportage over Climbing for Life waarin de ambassadeurs geïnterviewd werden"
 		]
 	},
-	"thumbnail": [
-		{
-			"id": "http://localhost/iiif/images/galibier_thumb.jpeg",
-			"type": "Image",
-			"format": "image/jpeg",
-			"height": 225,
-			"width": 300
-		}
-	],
+	"thumbnail": [{
+		"id": "http://localhost/iiif/images/galibier_thumb.jpeg",
+		"type": "Image",
+		"format": "image/jpeg",
+		"height": 225,
+		"width": 300
+	}],
 	"behavior": [
 		"individuals"
 	],
@@ -99,15 +97,13 @@
 					"Climbing for Life Galibier 2022"
 				]
 			},
-			"thumbnail": [
-				{
-					"id": "http://localhost/iiif/images/galibier_thumb.jpeg",
-					"type": "Image",
-					"format": "image/jpeg",
-					"height": 225,
-					"width": 300
-				}
-			],
+			"thumbnail": [{
+				"id": "http://localhost/iiif/images/galibier_thumb.jpeg",
+				"type": "Image",
+				"format": "image/jpeg",
+				"height": 225,
+				"width": 300
+			}],
 			"height": 1080,
 			"width": 1920,
 			"duration": 655,
@@ -116,28 +112,25 @@
 				"type": "Canvas",
 				"width": 1920,
 				"height": 1440,
-				"items": [
-					{
-						"id": "http://localhost/iiif/page/placeholder_climbing_for_life.json",
-						"type": "AnnotationPage",
-						"items": [
-							{
-								"id": "http://localhost/iiif/annotation/placeholder_climbing_for_life/image.json",
-								"type": "Annotation",
-								"motivation": "painting",
-								"body": {
-									"id": "http://localhost/iiif/images/galibier.jpeg",
-									"type": "image",
-									"format": "image/jpeg",
-									"width": 1920,
-									"height": 1440
-								},
-								"target": "http://localhost/iiif/canvas/placeholder_climbing_for_life.json"
-							}
+				"items": [{
+					"id": "http://localhost/iiif/page/placeholder_climbing_for_life.json",
+					"type": "AnnotationPage",
+					"items": [{
+							"id": "http://localhost/iiif/annotation/placeholder_climbing_for_life/image.json",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "http://localhost/iiif/images/galibier.jpeg",
+								"type": "image",
+								"format": "image/jpeg",
+								"width": 1920,
+								"height": 1440
+							},
+							"target": "http://localhost/iiif/canvas/placeholder_climbing_for_life.json"
+						}
 
-						]
-					}
-				]
+					]
+				}]
 			},
 			"items": [{
 				"id": "http://localhost/iiif/page/climbing_for_life/1.json",
