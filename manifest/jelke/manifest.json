@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://17ca8f31-448a-47ed-818a-bf42494c0aba",
+	"@id": "https://raw.githubusercontent.com/nvanderperren/iiif-environment/master/manifest/jelke/manifest.json",
 	"@type": "sc:Manifest",
 	"label": "manifest oefening",
 	"metadata": [],
