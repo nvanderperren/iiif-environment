@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://e34efd84-b438-406c-bb8b-0be948bdf2f9",
+	"@id": "https://raw.githubusercontent.com/nvanderperren/iiif-environment/master/manifest/loes/manifest.json",
 	"@type": "sc:Manifest",
 	"label": "Oorkonde, 1426",
 	"metadata": [
