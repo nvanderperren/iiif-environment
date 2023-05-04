@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://2458d31d-3a14-4c6a-b213-6ed0ecacaf5d",
+	"@id": "https://raw.githubusercontent.com/nvanderperren/iiif-environment/master/manifest/bart/manifest.json",
 	"@type": "sc:Manifest",
 	"label": "[Click to edit label]",
 	"metadata": [],
