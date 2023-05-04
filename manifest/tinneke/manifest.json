@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://d0ba1d7c-436f-49f2-81d7-1421ceadae3d",
+	"@id": "https://raw.githubusercontent.com/nvanderperren/iiif-environment/master/manifest/tinneke/manifest.jsond",
 	"@type": "sc:Manifest",
 	"label": "[Click to edit label]",
 	"metadata": [],
