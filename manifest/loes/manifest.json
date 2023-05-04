@@ -1,0 +1,298 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://e34efd84-b438-406c-bb8b-0be948bdf2f9",
+	"@type": "sc:Manifest",
+	"label": "Oorkonde, 1426",
+	"metadata": [
+		{
+			"label": "Referentiecode",
+			"value": "OU/M/12"
+		}
+	],
+	"description": [
+		{
+			"@value": "Deze oorkonde is een pauselijke bul uit 1426 die de privileges van de Leuvense Universiteit vastlegt. ",
+			"@language": "nl"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "KU Leuven - Universiteitsarchief",
+	"sequences": [
+		{
+			"@id": "http://cf1ca76c-97ee-4586-968c-132fc2e85c01",
+			"@type": "sc:Sequence",
+			"label": "Normal Sequence",
+			"canvases": [
+				{
+					"@id": "http://49a39f62-663d-47a3-8197-22cf34934b64",
+					"@type": "sc:Canvas",
+					"label": "Recto, 1 (met zegel)",
+					"height": 7212,
+					"width": 7743,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://14a42bde-2d7a-4be8-a8b2-a760bac9b362",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://lib.is/IE15925504/iiif/2/FL15925529/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://lib.is/IE15925504/iiif/2/FL15925529",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 7212,
+								"width": 7743
+							},
+							"on": "http://49a39f62-663d-47a3-8197-22cf34934b64"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://cf149b30-229b-470e-9b6d-97b9770cd30c",
+					"@type": "sc:Canvas",
+					"label": "Verso, 1 (met zegel)",
+					"height": 7330,
+					"width": 8543,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://cf773d0c-0947-476c-9ed4-5aea441b77ed",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://lib.is/IE15925504/iiif/2/FL15925540/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://lib.is/IE15925504/iiif/2/FL15925540",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 7330,
+								"width": 8543
+							},
+							"on": "http://cf149b30-229b-470e-9b6d-97b9770cd30c"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://630d02aa-93cc-4820-ab00-aaf46d572a37",
+					"@type": "sc:Canvas",
+					"label": "Zegel, voorkant",
+					"height": 4627,
+					"width": 4344,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://bc7aca0e-40b0-4813-9184-0cb237098fa3",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://lib.is/IE15925504/iiif/2/FL15925543/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://lib.is/IE15925504/iiif/2/FL15925543",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 4627,
+								"width": 4344
+							},
+							"on": "http://630d02aa-93cc-4820-ab00-aaf46d572a37"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://cd665a07-d60e-4b97-bad2-ee1bcb7909dd",
+					"@type": "sc:Canvas",
+					"label": "Zegel, achterkant",
+					"height": 4627,
+					"width": 4344,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://b915c9f5-20a6-4bd0-8361-44e87a5f3af0",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://lib.is/IE15925504/iiif/2/FL15925547/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://lib.is/IE15925504/iiif/2/FL15925547",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 4627,
+								"width": 4344
+							},
+							"on": "http://cd665a07-d60e-4b97-bad2-ee1bcb7909dd"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": [],
+	"thumbnail": {
+		"@id": "http://49a39f62-663d-47a3-8197-22cf34934b64"
+	},
+	"logo": "https://www.kuleuven.be/internationaal/thinktank/fotos-en-logos/ku-leuven-logo.png/"
+}

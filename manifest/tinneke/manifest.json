@@ -1,0 +1,145 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://d0ba1d7c-436f-49f2-81d7-1421ceadae3d",
+	"@type": "sc:Manifest",
+	"label": "[Click to edit label]",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://2ddb7b0f-6fc8-4512-82a7-11463d445a6a",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://8f2b531a-9327-4d32-ad32-0038ff36d816",
+					"@type": "sc:Canvas",
+					"label": "Belgradostraat",
+					"height": 2957,
+					"width": 3668,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://da7a5d46-23b5-4b99-bfdd-7a3f616849ba",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be:EFCAAE08-D022-11E5-ACAE-1346D43445F2:DS.0/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be:EFCAAE08-D022-11E5-ACAE-1346D43445F2:DS.0",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"maxHeight": 4000,
+											"qualities": [
+												"native",
+												"color",
+												"gray",
+												"bitonal"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"sizeUpscaling",
+												"rotationBy90s",
+												"mirroring"
+											],
+											"formats": [
+												"jpg",
+												"png",
+												"webp"
+											],
+											"maxWidth": 4000
+										}
+									]
+								},
+								"height": 2957,
+								"width": 3668
+							},
+							"on": "http://8f2b531a-9327-4d32-ad32-0038ff36d816"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://23b9cad0-80a8-43ff-8cf2-0666eac0b860",
+					"@type": "sc:Canvas",
+					"label": "Bijlokekaai",
+					"height": 5442,
+					"width": 4074,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://2b893675-7fd4-4fbb-8c61-4deec1fef640",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be:F1E1A958-D022-11E5-ACAE-1346D43445F2:DS.1/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://adore.ugent.be/IIIF/images/archive.ugent.be:F1E1A958-D022-11E5-ACAE-1346D43445F2:DS.1",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"maxHeight": 4000,
+											"qualities": [
+												"native",
+												"color",
+												"gray",
+												"bitonal"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"sizeUpscaling",
+												"rotationBy90s",
+												"mirroring"
+											],
+											"formats": [
+												"jpg",
+												"png",
+												"webp"
+											],
+											"maxWidth": 4000
+										}
+									]
+								},
+								"height": 5442,
+								"width": 4074
+							},
+							"on": "http://23b9cad0-80a8-43ff-8cf2-0666eac0b860"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": [],
+	"thumbnail": {
+		"@id": "http://8f2b531a-9327-4d32-ad32-0038ff36d816"
+	}
+}
