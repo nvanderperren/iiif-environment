@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://af4f3cd4-9379-4ae1-98c5-b10a4b4abe04",
+	"@id": "https://raw.githubusercontent.com/nvanderperren/iiif-environment/master/manifest/manifest_2/manifest.json",
 	"@type": "sc:Manifest",
 	"label": "Het klooster in Gent",
 	"metadata": [],
