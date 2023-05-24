@@ -1,0 +1,100 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dams.antwerpen.be/iiif/N1QXUBlcPLSilTZD7SCsKIBB/manifest",
+    "@type": "sc:Manifest",
+    "label": "EHC_E18497_1701_0017_2013_0002.tif",
+    "thumbnail": {
+      "@id": "https://media.antwerpen.be/media/18/L/L2gcbkq7TSlJNrLlTnnOO4ny/L2gcbkq7TSlJNrLlTnnOO4ny.jpg",
+      "@type": "dctypes:Image"
+    },
+    "attribution": "E 18497:1701,0017, Collectie Stad Antwerpen, Erfgoedbibliotheek Hendrik Conscience",
+    "sequences": [
+      {
+        "@id": "https://media.antwerpen.be/media/iiif/N1QXUBlcPLSilTZD7SCsKIBB/sequence/normal",
+        "@type": "sc:Sequence",
+        "rendering": [
+          {
+            "label": "EHC_E18497_1701_0017_2013_0002.jpg",
+            "@id": "https://media.antwerpen.be/download/18/O/O1TfcXbLfHXJShZ7FeenLgH1/EHC_E18497_1701_0017_2013_0002.jpg",
+            "format": "image/jpeg"
+          },
+          {
+            "label": "EHC_E18497_1701_0017_2013_0002.alto.xml",
+            "@id": "https://media.antwerpen.be/download/18/v/v1S6jI49T6C5WXKeMLWbg2N3/EHC_E18497_1701_0017_2013_0002.alto.xml",
+            "format": "application/xml"
+          },
+          {
+            "label": "EHC_E18497_1701_0017_2013_0002.txt",
+            "@id": "https://media.antwerpen.be/download/18/y/y2MfRpVWQTdcOijYWuTa0jEY/EHC_E18497_1701_0017_2013_0002.txt",
+            "format": "text/plain"
+          }
+        ],
+        "viewingDirection": "left-to-right",
+        "viewingHint": "paged",
+        "canvases": [
+          {
+            "@id": "https://media.antwerpen.be/media/iiif/N1QXUBlcPLSilTZD7SCsKIBB/canvas/normal",
+            "@type": "sc:Canvas",
+            "label": "EHC_E18497_1701_0017_2013_0002.tif",
+            "thumbnail": {
+              "@id": "https://media.antwerpen.be/media/18/L/L2gcbkq7TSlJNrLlTnnOO4ny/L2gcbkq7TSlJNrLlTnnOO4ny.jpg",
+              "@type": "dctypes:Image"
+            },
+            "rendering": [
+              {
+                "label": "EHC_E18497_1701_0017_2013_0002.jpg",
+                "@id": "https://media.antwerpen.be/download/18/O/O1TfcXbLfHXJShZ7FeenLgH1/EHC_E18497_1701_0017_2013_0002.jpg",
+                "format": "image/jpeg"
+              },
+              {
+                "label": "EHC_E18497_1701_0017_2013_0002.alto.xml",
+                "@id": "https://media.antwerpen.be/download/18/v/v1S6jI49T6C5WXKeMLWbg2N3/EHC_E18497_1701_0017_2013_0002.alto.xml",
+                "format": "application/xml"
+              },
+              {
+                "label": "EHC_E18497_1701_0017_2013_0002.txt",
+                "@id": "https://media.antwerpen.be/download/18/y/y2MfRpVWQTdcOijYWuTa0jEY/EHC_E18497_1701_0017_2013_0002.txt",
+                "format": "text/plain"
+              }
+            ],
+            "attribution": "E 18497:1701,0017, Collectie Stad Antwerpen, Erfgoedbibliotheek Hendrik Conscience",
+            "height": 979,
+            "width": 1200,
+            "images": [
+              {
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://media.antwerpen.be/media/iiif/N1QXUBlcPLSilTZD7SCsKIBB/canvas/normal",
+                "resource": {
+                  "@id": "https://dams.antwerpen.be/iiif/N1QXUBlcPLSilTZD7SCsKIBB",
+                  "@type": "dctypes:Image",
+                  "label": "EHC_E18497_1701_0017_2013_0002.jpg",
+                  "format": "image/jpeg",
+                  "height": 979,
+                  "width": 1200,
+                  "service": {
+                    "@id": "https://dams.antwerpen.be/iiif/N1QXUBlcPLSilTZD7SCsKIBB",
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "profile": "http://iiif.io/api/image/2/level1.json"
+                  }
+                }
+              }
+            ],
+            "license": "https://creativecommons.org/publicdomain/mark/1.0/deed.nl",
+            "seeAlso": "https://raw.githubusercontent.com/nvanderperren/iiif-environment/master/OCR/Alto3.xml"
+          }
+        ]
+      }
+    ],
+    "metadata": [
+      {
+        "value": "EHC_E18497_1701_0017_2013_0002.tif",
+        "label": "Title"
+      },
+      {
+        "value": "N1QXUBlcPLSilTZD7SCsKIBB",
+        "label": "Object ID"
+      }
+    ],
+    "license": "https://creativecommons.org/publicdomain/mark/1.0/deed.nl"
+  }
