@@ -1,0 +1,100 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://dams.antwerpen.be/iiif/z1eGeYTUXfPBJ8PWQilkhB7f/manifest",
+    "@type": "sc:Manifest",
+    "label": "scan 0007",
+    "thumbnail": {
+      "@id": "https://media.antwerpen.be/media/18/X/X1Rc8HX5KfqcEjqesG43XlcG/X1Rc8HX5KfqcEjqesG43XlcG.jpg",
+      "@type": "dctypes:Image"
+    },
+    "attribution": "B 666, Collectie Stad Antwerpen, Erfgoedbibliotheek Hendrik Conscience",
+    "sequences": [
+      {
+        "@id": "https://media.antwerpen.be/media/iiif/z1eGeYTUXfPBJ8PWQilkhB7f/sequence/normal",
+        "@type": "sc:Sequence",
+        "rendering": [
+          {
+            "label": "EHC_B666_1719_2017_0007.tif",
+            "@id": "https://media.antwerpen.be/download/18/B/BRbGEYBXUVeOeP4Od4OvIzAb/EHC_B666_1719_2017_0007.tif",
+            "format": "image/tiff"
+          },
+          {
+            "label": "EHC_B666_1719_2017_0007.txt",
+            "@id": "https://media.antwerpen.be/download/18/f/fdTeRIhGfHchXgITI0jPrI8z/EHC_B666_1719_2017_0007.txt",
+            "format": "text/x-fortran"
+          },
+          {
+            "label": "EHC_B666_1719_2017_0007.alto.xml",
+            "@id": "https://media.antwerpen.be/download/18/u/u1DSOenfiikRvgdXQKCefTBV/EHC_B666_1719_2017_0007.alto.xml",
+            "format": "application/xml"
+          }
+        ],
+        "viewingDirection": "left-to-right",
+        "viewingHint": "paged",
+        "canvases": [
+          {
+            "@id": "https://media.antwerpen.be/media/iiif/z1eGeYTUXfPBJ8PWQilkhB7f/canvas/normal",
+            "@type": "sc:Canvas",
+            "label": "scan 0007",
+            "thumbnail": {
+              "@id": "https://media.antwerpen.be/media/18/X/X1Rc8HX5KfqcEjqesG43XlcG/X1Rc8HX5KfqcEjqesG43XlcG.jpg",
+              "@type": "dctypes:Image"
+            },
+            "rendering": [
+              {
+                "label": "EHC_B666_1719_2017_0007.tif",
+                "@id": "https://media.antwerpen.be/download/18/B/BRbGEYBXUVeOeP4Od4OvIzAb/EHC_B666_1719_2017_0007.tif",
+                "format": "image/tiff"
+              },
+              {
+                "label": "EHC_B666_1719_2017_0007.txt",
+                "@id": "https://media.antwerpen.be/download/18/f/fdTeRIhGfHchXgITI0jPrI8z/EHC_B666_1719_2017_0007.txt",
+                "format": "text/x-fortran"
+              },
+              {
+                "label": "EHC_B666_1719_2017_0007.alto.xml",
+                "@id": "https://media.antwerpen.be/download/18/u/u1DSOenfiikRvgdXQKCefTBV/EHC_B666_1719_2017_0007.alto.xml",
+                "format": "application/xml"
+              }
+            ],
+            "attribution": "B 666, Collectie Stad Antwerpen, Erfgoedbibliotheek Hendrik Conscience",
+            "height": 2653,
+            "width": 2118,
+            "images": [
+              {
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://media.antwerpen.be/media/iiif/z1eGeYTUXfPBJ8PWQilkhB7f/canvas/normal",
+                "resource": {
+                  "@id": "https://dams.antwerpen.be/iiif/z1eGeYTUXfPBJ8PWQilkhB7f",
+                  "@type": "dctypes:Image",
+                  "label": "EHC_B666_1719_2017_0007.jpg",
+                  "format": "image/jpeg",
+                  "height": 2653,
+                  "width": 2118,
+                  "service": {
+                    "@id": "https://dams.antwerpen.be/iiif/z1eGeYTUXfPBJ8PWQilkhB7f",
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "profile": "http://iiif.io/api/image/2/level1.json"
+                  }
+                }
+              }
+            ],
+            "license": "https://creativecommons.org/publicdomain/mark/1.0/deed.nl",
+            "seeAlso": "../../../OCR/Alto1.xml"
+          }
+        ]
+      }
+    ],
+    "metadata": [
+      {
+        "value": "scan 0007",
+        "label": "Title"
+      },
+      {
+        "value": "z1eGeYTUXfPBJ8PWQilkhB7f",
+        "label": "Object ID"
+      }
+    ],
+    "license": "https://creativecommons.org/publicdomain/mark/1.0/deed.nl"
+  }

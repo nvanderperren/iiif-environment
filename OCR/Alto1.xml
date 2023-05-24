@@ -1,0 +1,1148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-08-17T11:17:43.574+02:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="2653" WIDTH="2118">
+         <TopMargin HEIGHT="277" WIDTH="2118" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2040" WIDTH="31" VPOS="277" HPOS="0"/>
+         <RightMargin HEIGHT="2040" WIDTH="550" VPOS="277" HPOS="1568"/>
+         <BottomMargin HEIGHT="336" WIDTH="2118" VPOS="2317" HPOS="0"/>
+         <PrintSpace HEIGHT="2040" WIDTH="1537" VPOS="277" HPOS="31">
+            <TextBlock ID="r_2_1" HEIGHT="360" WIDTH="785" VPOS="323" HPOS="410">
+               <Shape>
+                  <Polygon POINTS="410,323 1195,323 1195,683 410,683"/>
+               </Shape>
+               <TextLine ID="r_2_1l1"
+                         BASELINE="500,411 529,410 558,410 587,408 616,408 645,407 674,405 703,405 732,405 761,404 790,403 819,402 848,402 877,401 906,400 935,399 964,398 993,396 1022,396 1051,395 1080,393"
+                         HEIGHT="120"
+                         WIDTH="592"
+                         VPOS="303"
+                         HPOS="493">
+                  <String ID="string_r_2_1l1"
+                          HEIGHT="120"
+                          WIDTH="592"
+                          VPOS="303"
+                          HPOS="493"
+                          CONTENT="GAZETTE"/>
+               </TextLine>
+               <TextLine ID="r_2_1l2"
+                         BASELINE="716,482 743,479 771,477 799,476 826,475 854,472 882,468"
+                         HEIGHT="76"
+                         WIDTH="180"
+                         VPOS="417"
+                         HPOS="708">
+                  <String ID="string_r_2_1l2"
+                          HEIGHT="76"
+                          WIDTH="180"
+                          VPOS="417"
+                          HPOS="708"
+                          CONTENT="VAN"/>
+               </TextLine>
+               <TextLine ID="r_2_1l3"
+                         BASELINE="431,587 465,587 500,587 535,587 569,586 604,585 639,584 673,582 708,582 743,580 778,578 812,577 847,575 882,574 916,572 951,571 986,570 1020,569 1055,567 1090,567 1125,567"
+                         HEIGHT="139"
+                         WIDTH="706"
+                         VPOS="477"
+                         HPOS="424">
+                  <String ID="string_r_2_1l3"
+                          HEIGHT="139"
+                          WIDTH="706"
+                          VPOS="477"
+                          HPOS="424"
+                          CONTENT="ANTWERPEN"/>
+               </TextLine>
+               <TextLine ID="r_2_1l4"
+                         BASELINE="413,665 448,666 483,666 518,666 553,666 588,665 623,665 658,663 693,662 728,661 763,660 798,658 833,657 868,656 903,654 938,653 973,651 1008,650 1043,650 1078,648 1113,648"
+                         HEIGHT="92"
+                         WIDTH="710"
+                         VPOS="590"
+                         HPOS="408">
+                  <String ID="string_r_2_1l4"
+                          HEIGHT="92"
+                          WIDTH="710"
+                          VPOS="590"
+                          HPOS="408"
+                          CONTENT="Dynsdagh den 3. Januarius 1719 N"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_5_1" HEIGHT="609" WIDTH="683" VPOS="712" HPOS="68">
+               <Shape>
+                  <Polygon POINTS="68,712 751,712 751,1321 68,1321"/>
+               </Shape>
+               <TextLine ID="r_5_1l1"
+                         BASELINE="206,749 231,749 257,750 283,750 309,750 335,750 361,750 387,749 413,749 438,749 464,749 490,748 516,747 542,747 568,747 594,746 620,746"
+                         HEIGHT="53"
+                         WIDTH="424"
+                         VPOS="711"
+                         HPOS="201">
+                  <String ID="string_r_5_1l1"
+                          HEIGHT="53"
+                          WIDTH="424"
+                          VPOS="711"
+                          HPOS="201"
+                          CONTENT="VAPELS, den 6. December."/>
+               </TextLine>
+               <TextLine ID="r_5_1l2"
+                         BASELINE="392,788 417,788 443,788 469,788 495,788 521,788 547,786 573,786 599,785 625,785 651,785 677,785 703,785 729,785"
+                         HEIGHT="53"
+                         WIDTH="347"
+                         VPOS="750"
+                         HPOS="387">
+                  <String ID="string_r_5_1l2"
+                          HEIGHT="53"
+                          WIDTH="347"
+                          VPOS="750"
+                          HPOS="387"
+                          CONTENT="E brieven uyt ons"/>
+               </TextLine>
+               <TextLine ID="r_5_1l5"
+                         BASELINE="402,828 427,828 453,827 478,827 504,827 529,826 555,825 580,825 606,824 631,824 657,824 682,824 708,824 734,824"
+                         HEIGHT="62"
+                         WIDTH="342"
+                         VPOS="786"
+                         HPOS="397">
+                  <String ID="string_r_5_1l5"
+                          HEIGHT="62"
+                          WIDTH="342"
+                          VPOS="786"
+                          HPOS="397"
+                          CONTENT="Camp by Melazzo"/>
+               </TextLine>
+               <TextLine ID="r_5_1l7"
+                         BASELINE="383,872 408,870 433,868 458,867 484,866 509,864 534,864 560,864 585,864 610,864 635,864 661,864 686,864 711,864 737,863"
+                         HEIGHT="63"
+                         WIDTH="365"
+                         VPOS="826"
+                         HPOS="377">
+                  <String ID="string_r_5_1l7"
+                          HEIGHT="63"
+                          WIDTH="365"
+                          VPOS="826"
+                          HPOS="377"
+                          CONTENT=" seggen dat de Spag-"/>
+               </TextLine>
+               <TextLine ID="r_5_1l8"
+                         BASELINE="360,909 385,909 410,908 436,908 461,907 487,906 512,906 537,905 563,903 588,903 614,902 639,902 664,902 690,902 715,900 741,900"
+                         HEIGHT="55"
+                         WIDTH="393"
+                         VPOS="868"
+                         HPOS="354">
+                  <String ID="string_r_5_1l8"
+                          HEIGHT="55"
+                          WIDTH="393"
+                          VPOS="868"
+                          HPOS="354"
+                          CONTENT="8 njaerts, voortvaerden"/>
+               </TextLine>
+               <TextLine ID="r_5_1l9"
+                         BASELINE="309,966 334,961 359,957 385,954 410,951 435,948 461,946 486,944 511,944 537,943 562,942 587,942 613,942 638,942 663,942 689,942 714,942 740,941"
+                         HEIGHT="58"
+                         WIDTH="444"
+                         VPOS="910"
+                         HPOS="302">
+                  <String ID="string_r_5_1l9"
+                          HEIGHT="58"
+                          WIDTH="444"
+                          VPOS="910"
+                          HPOS="302"
+                          CONTENT="C met het Canonneren,"/>
+               </TextLine>
+               <TextLine ID="r_5_1l10"
+                         BASELINE="374,983 400,984 427,986 453,986 480,986 506,985 533,984 560,983 586,983 613,981 639,981 666,980 692,980 719,980 746,981"
+                         HEIGHT="54"
+                         WIDTH="383"
+                         VPOS="946"
+                         HPOS="368">
+                  <String ID="string_r_5_1l10"
+                          HEIGHT="54"
+                          WIDTH="383"
+                          VPOS="946"
+                          HPOS="368"
+                          CONTENT="à ende Bombarderen van"/>
+               </TextLine>
+               <TextLine ID="r_5_1l11"
+                         BASELINE="411,1026 436,1025 461,1025 486,1024 512,1023 537,1023 562,1023 588,1022 613,1022 638,1022 664,1021 689,1020 714,1020 740,1019"
+                         HEIGHT="57"
+                         WIDTH="340"
+                         VPOS="987"
+                         HPOS="406">
+                  <String ID="string_r_5_1l11"
+                          HEIGHT="57"
+                          WIDTH="340"
+                          VPOS="987"
+                          HPOS="406"
+                          CONTENT="die Fortresse , doch"/>
+               </TextLine>
+               <TextLine ID="r_5_1l12"
+                         BASELINE="71,1073 104,1076 137,1079 171,1080 204,1080 237,1080 271,1079 304,1078 337,1076 371,1074 404,1071 437,1070 471,1067 504,1064 537,1062 571,1061 604,1059 637,1058 671,1058 704,1059 738,1061"
+                         HEIGHT="92"
+                         WIDTH="679"
+                         VPOS="1013"
+                         HPOS="64">
+                  <String ID="string_r_5_1l12"
+                          HEIGHT="92"
+                          WIDTH="679"
+                          VPOS="1013"
+                          HPOS="64"
+                          CONTENT="e sonder veel te voorde-"/>
+               </TextLine>
+               <TextLine ID="r_5_1l13"
+                         BASELINE="407,1104 433,1103 459,1103 485,1103 511,1102 537,1101 563,1101 590,1101 616,1100 642,1100 668,1100 694,1101 720,1101 747,1103"
+                         HEIGHT="64"
+                         WIDTH="350"
+                         VPOS="1057"
+                         HPOS="402">
+                  <String ID="string_r_5_1l13"
+                          HEIGHT="64"
+                          WIDTH="350"
+                          VPOS="1057"
+                          HPOS="402"
+                          CONTENT="ren. Den Generael"/>
+               </TextLine>
+               <TextLine ID="r_5_1l14"
+                         BASELINE="72,1149 105,1149 138,1149 171,1149 205,1149 238,1149 271,1149 305,1148 338,1148 371,1146 405,1146 438,1145 471,1143 504,1143 538,1142 571,1141 604,1140 638,1139 671,1139 704,1139 738,1139"
+                         HEIGHT="55"
+                         WIDTH="677"
+                         VPOS="1108"
+                         HPOS="66">
+                  <String ID="string_r_5_1l14"
+                          HEIGHT="55"
+                          WIDTH="677"
+                          VPOS="1108"
+                          HPOS="66"
+                          CONTENT="Zumjungen soude hier aen onsen Vice-"/>
+               </TextLine>
+               <TextLine ID="r_5_1l15"
+                         BASELINE="72,1191 105,1191 139,1190 172,1190 206,1190 239,1188 273,1188 306,1187 340,1187 373,1185 407,1185 441,1184 474,1182 508,1182 541,1181 575,1181 608,1181 642,1179 675,1179 709,1179 743,1178"
+                         HEIGHT="62"
+                         WIDTH="682"
+                         VPOS="1146"
+                         HPOS="66">
+                  <String ID="string_r_5_1l15"
+                          HEIGHT="62"
+                          WIDTH="682"
+                          VPOS="1146"
+                          HPOS="66"
+                          CONTENT="roy hebben te verstaen ghegeven dat, ver-"/>
+               </TextLine>
+               <TextLine ID="r_5_1l16"
+                         BASELINE="81,1230 114,1230 147,1230 181,1230 214,1229 248,1229 281,1227 314,1227 348,1226 381,1224 415,1224 448,1223 481,1222 515,1221 548,1221 582,1220 615,1220 648,1220 682,1220 715,1220 749,1221"
+                         HEIGHT="64"
+                         WIDTH="678"
+                         VPOS="1183"
+                         HPOS="76">
+                  <String ID="string_r_5_1l16"
+                          HEIGHT="64"
+                          WIDTH="678"
+                          VPOS="1183"
+                          HPOS="76"
+                          CONTENT="mits onse Trouppen op een stecht Terrain"/>
+               </TextLine>
+               <TextLine ID="r_5_1l17"
+                         BASELINE="84,1272 117,1271 150,1271 183,1269 216,1268 249,1268 282,1266 315,1266 348,1265 381,1265 415,1263 448,1262 481,1262 514,1262 547,1260 580,1260 613,1259 646,1259 679,1259 712,1257 746,1257"
+                         HEIGHT="65"
+                         WIDTH="673"
+                         VPOS="1223"
+                         HPOS="78">
+                  <String ID="string_r_5_1l17"
+                          HEIGHT="65"
+                          WIDTH="673"
+                          VPOS="1223"
+                          HPOS="78"
+                          CONTENT="ghecampeert laghen , ende niet als met groo¬"/>
+               </TextLine>
+               <TextLine ID="r_5_1l18"
+                         BASELINE="71,1311 104,1310 137,1310 170,1308 204,1307 237,1307 270,1306 304,1305 337,1304 370,1304 404,1303 437,1302 470,1302 503,1301 537,1301 570,1300 603,1299 637,1299 670,1299 703,1298 737,1298"
+                         HEIGHT="40"
+                         WIDTH="676"
+                         VPOS="1275"
+                         HPOS="66">
+                  <String ID="string_r_5_1l18"
+                          HEIGHT="40"
+                          WIDTH="676"
+                          VPOS="1275"
+                          HPOS="66"
+                          CONTENT="te moeyte de Subsistentic-mid delen konden"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_6_1" HEIGHT="1008" WIDTH="694" VPOS="1309" HPOS="70">
+               <Shape>
+                  <Polygon POINTS="70,1309 764,1309 764,2317 70,2317"/>
+               </Shape>
+               <TextLine ID="r_6_1l1"
+                         BASELINE="78,1347 111,1347 144,1347 177,1347 211,1347 244,1346 277,1346 311,1346 344,1344 377,1344 411,1343 444,1343 477,1342 510,1341 544,1341 577,1340 610,1340 644,1338 677,1338 710,1337 744,1337"
+                         HEIGHT="54"
+                         WIDTH="676"
+                         VPOS="1306"
+                         HPOS="73">
+                  <String ID="string_r_6_1l1"
+                          HEIGHT="54"
+                          WIDTH="676"
+                          VPOS="1306"
+                          HPOS="73"
+                          CONTENT="bekomen van het platte Landt, hy raets-"/>
+               </TextLine>
+               <TextLine ID="r_6_1l2"
+                         BASELINE="81,1386 114,1386 147,1386 180,1386 214,1386 247,1386 280,1385 313,1385 347,1383 380,1383 413,1382 446,1381 480,1380 513,1379 546,1379 579,1378 613,1377 646,1377 679,1377 712,1376 746,1376"
+                         HEIGHT="49"
+                         WIDTH="675"
+                         VPOS="1346"
+                         HPOS="76">
+                  <String ID="string_r_6_1l2"
+                          HEIGHT="49"
+                          WIDTH="675"
+                          VPOS="1346"
+                          HPOS="76"
+                          CONTENT="saem oordeelde dat-men ons Campement be-"/>
+               </TextLine>
+               <TextLine ID="r_6_1l3"
+                         BASELINE="71,1427 105,1427 139,1427 173,1427 207,1427 241,1427 275,1425 309,1425 343,1424 377,1424 411,1422 445,1421 479,1421 513,1419 547,1419 581,1418 615,1418 649,1416 683,1416 717,1416 752,1416"
+                         HEIGHT="47"
+                         WIDTH="691"
+                         VPOS="1392"
+                         HPOS="66">
+                  <String ID="string_r_6_1l3"
+                          HEIGHT="47"
+                          WIDTH="691"
+                          VPOS="1392"
+                          HPOS="66"
+                          CONTENT="hoorde te verplaetsen, ende te verleggen in"/>
+               </TextLine>
+               <TextLine ID="r_6_1l4"
+                         BASELINE="78,1467 111,1466 144,1466 177,1466 211,1464 244,1464 277,1464 310,1463 344,1463 377,1461 410,1461 443,1460 477,1460 510,1458 543,1458 576,1457 610,1457 643,1455 676,1455 709,1455 743,1454"
+                         HEIGHT="52"
+                         WIDTH="676"
+                         VPOS="1418"
+                         HPOS="72">
+                  <String ID="string_r_6_1l4"
+                          HEIGHT="52"
+                          WIDTH="676"
+                          VPOS="1418"
+                          HPOS="72"
+                          CONTENT="de vlackte van Siracusa, doch men twyffelt"/>
+               </TextLine>
+               <TextLine ID="r_6_1l5"
+                         BASELINE="81,1505 115,1505 150,1505 185,1503 219,1503 254,1502 289,1502 323,1501 358,1500 393,1499 427,1499 462,1498 497,1497 531,1496 566,1496 601,1496 635,1496 670,1496 705,1496 740,1496"
+                         HEIGHT="41"
+                         WIDTH="683"
+                         VPOS="1470"
+                         HPOS="76">
+                  <String ID="string_r_6_1l5"
+                          HEIGHT="41"
+                          WIDTH="683"
+                          VPOS="1470"
+                          HPOS="76"
+                          CONTENT="ofte dit voorstel door den Viceroy, ende den"/>
+               </TextLine>
+               <TextLine ID="r_6_1l6"
+                         BASELINE="72,1542 105,1542 138,1542 172,1542 205,1542 239,1541 272,1541 306,1541 339,1540 373,1539 406,1539 439,1539 473,1538 506,1538 540,1536 573,1536 607,1536 640,1535 674,1535 707,1535 741,1533"
+                         HEIGHT="47"
+                         WIDTH="679"
+                         VPOS="1511"
+                         HPOS="67">
+                  <String ID="string_r_6_1l6"
+                          HEIGHT="47"
+                          WIDTH="679"
+                          VPOS="1511"
+                          HPOS="67"
+                          CONTENT="hooghen Crijghs-Raet sal worden gheappro¬"/>
+               </TextLine>
+               <TextLine ID="r_6_1l7"
+                         BASELINE="87,1583 119,1583 152,1583 185,1581 218,1581 251,1580 284,1580 316,1578 349,1578 382,1578 415,1577 448,1577 481,1577 514,1575 546,1575 579,1575 612,1574 645,1574 678,1574 711,1572 744,1572"
+                         HEIGHT="52"
+                         WIDTH="668"
+                         VPOS="1545"
+                         HPOS="81">
+                  <String ID="string_r_6_1l7"
+                          HEIGHT="52"
+                          WIDTH="668"
+                          VPOS="1545"
+                          HPOS="81"
+                          CONTENT="beert. Ondertusschen vermeerderden de"/>
+               </TextLine>
+               <TextLine ID="r_6_1l8"
+                         BASELINE="84,1623 117,1623 150,1623 183,1622 216,1622 249,1620 282,1620 315,1620 348,1619 381,1619 414,1617 447,1617 480,1617 513,1616 546,1616 579,1614 612,1614 645,1614 678,1614 711,1614 744,1614"
+                         HEIGHT="57"
+                         WIDTH="671"
+                         VPOS="1586"
+                         HPOS="78">
+                  <String ID="string_r_6_1l8"
+                          HEIGHT="57"
+                          WIDTH="671"
+                          VPOS="1586"
+                          HPOS="78"
+                          CONTENT="Keyserlijcke Trouppen in Sicilien, ende men"/>
+               </TextLine>
+               <TextLine ID="r_6_1l9"
+                         BASELINE="78,1661 111,1661 145,1661 179,1661 213,1661 247,1659 281,1659 315,1659 349,1659 383,1659 417,1658 450,1658 484,1658 518,1658 552,1656 586,1656 620,1656 654,1655 688,1655 722,1655 756,1653"
+                         HEIGHT="45"
+                         WIDTH="688"
+                         VPOS="1628"
+                         HPOS="73">
+                  <String ID="string_r_6_1l9"
+                          HEIGHT="45"
+                          WIDTH="688"
+                          VPOS="1628"
+                          HPOS="73"
+                          CONTENT="maeckte alle noodighen toestel tot het ontset"/>
+               </TextLine>
+               <TextLine ID="r_6_1l10"
+                         BASELINE="77,1698 103,1700 129,1701 156,1701 182,1701 208,1700 235,1698 261,1698 288,1697"
+                         HEIGHT="49"
+                         WIDTH="222"
+                         VPOS="1664"
+                         HPOS="71">
+                  <String ID="string_r_6_1l10"
+                          HEIGHT="49"
+                          WIDTH="222"
+                          VPOS="1664"
+                          HPOS="71"
+                          CONTENT="van Melazzo."/>
+               </TextLine>
+               <TextLine ID="r_6_1l11"
+                         BASELINE="186,1736 212,1737 238,1737 264,1737 290,1737 316,1737 343,1737 369,1737 395,1736 421,1736 447,1736 473,1735 500,1734 526,1734 552,1734 578,1734 604,1734 630,1734 657,1734"
+                         HEIGHT="63"
+                         WIDTH="481"
+                         VPOS="1698"
+                         HPOS="181">
+                  <String ID="string_r_6_1l11"
+                          HEIGHT="63"
+                          WIDTH="481"
+                          VPOS="1698"
+                          HPOS="181"
+                          CONTENT="ROOMEN, den 19. December."/>
+               </TextLine>
+               <TextLine ID="r_6_1l12"
+                         BASELINE="125,1778 156,1778 187,1778 219,1778 250,1778 281,1778 313,1776 344,1776 375,1776 407,1775 438,1775 469,1775 501,1773 532,1773 563,1773 595,1773 626,1772 657,1773 689,1773 720,1773 752,1773"
+                         HEIGHT="41"
+                         WIDTH="638"
+                         VPOS="1742"
+                         HPOS="119">
+                  <String ID="string_r_6_1l12"
+                          HEIGHT="41"
+                          WIDTH="638"
+                          VPOS="1742"
+                          HPOS="119"
+                          CONTENT="In het secreet Consistorie van voorleden"/>
+               </TextLine>
+               <TextLine ID="r_6_1l13"
+                         BASELINE="81,1818 114,1818 147,1818 181,1818 214,1818 248,1818 281,1817 315,1817 348,1817 382,1815 415,1815 448,1814 482,1814 515,1812 549,1812 582,1812 616,1811 649,1811 683,1811 716,1811 750,1811"
+                         HEIGHT="58"
+                         WIDTH="680"
+                         VPOS="1779"
+                         HPOS="75">
+                  <String ID="string_r_6_1l13"
+                          HEIGHT="58"
+                          WIDTH="680"
+                          VPOS="1779"
+                          HPOS="75"
+                          CONTENT="maendagh passeerde, buyten het preconise-"/>
+               </TextLine>
+               <TextLine ID="r_6_1l14"
+                         BASELINE="87,1859 120,1857 153,1857 186,1857 219,1857 252,1857 285,1857 319,1856 352,1856 385,1856 418,1855 451,1854 484,1854 517,1854 551,1853 584,1853 617,1852 650,1851 683,1850 716,1850 750,1848"
+                         HEIGHT="54"
+                         WIDTH="674"
+                         VPOS="1812"
+                         HPOS="81">
+                  <String ID="string_r_6_1l14"
+                          HEIGHT="54"
+                          WIDTH="674"
+                          VPOS="1812"
+                          HPOS="81"
+                          CONTENT="ren, ofte voorstellen van verscheyde Bis-"/>
+               </TextLine>
+               <TextLine ID="r_6_1l15"
+                         BASELINE="84,1898 117,1898 150,1898 183,1897 216,1896 249,1896 282,1896 315,1896 348,1896 381,1895 414,1895 447,1895 480,1895 513,1893 546,1893 579,1893 612,1892 645,1892 678,1892 711,1890 744,1890"
+                         HEIGHT="51"
+                         WIDTH="670"
+                         VPOS="1858"
+                         HPOS="79">
+                  <String ID="string_r_6_1l15"
+                          HEIGHT="51"
+                          WIDTH="670"
+                          VPOS="1858"
+                          HPOS="79"
+                          CONTENT="dommen, niets van remarque. Dijnsdagh"/>
+               </TextLine>
+               <TextLine ID="r_6_1l16"
+                         BASELINE="90,1935 124,1935 159,1935 194,1935 228,1935 263,1935 298,1935 332,1935 367,1935 402,1935 436,1934 471,1934 506,1934 540,1934 575,1932 610,1932 644,1932 679,1932 714,1931 749,1931"
+                         HEIGHT="38"
+                         WIDTH="669"
+                         VPOS="1907"
+                         HPOS="85">
+                  <String ID="string_r_6_1l16"
+                          HEIGHT="38"
+                          WIDTH="669"
+                          VPOS="1907"
+                          HPOS="85"
+                          CONTENT="was den Ridder van St. Joris lanck by den"/>
+               </TextLine>
+               <TextLine ID="r_6_1l17"
+                         BASELINE="84,1974 117,1974 150,1974 184,1974 217,1974 251,1974 284,1974 317,1974 351,1974 384,1974 418,1974 451,1973 484,1973 518,1973 551,1971 585,1971 618,1971 651,1971 685,1971 718,1970 752,1970"
+                         HEIGHT="62"
+                         WIDTH="679"
+                         VPOS="1934"
+                         HPOS="79">
+                  <String ID="string_r_6_1l17"
+                          HEIGHT="62"
+                          WIDTH="679"
+                          VPOS="1934"
+                          HPOS="79"
+                          CONTENT="Paus , wiens Crooninghe dien dagh met de"/>
+               </TextLine>
+               <TextLine ID="r_6_1l18"
+                         BASELINE="89,2016 122,2016 155,2016 188,2016 221,2016 254,2016 287,2016 320,2015 353,2015 386,2013 419,2013 452,2013 485,2012 518,2012 551,2010 584,2010 617,2010 650,2010 683,2010 716,2012 749,2012"
+                         HEIGHT="42"
+                         WIDTH="670"
+                         VPOS="1991"
+                         HPOS="84">
+                  <String ID="string_r_6_1l18"
+                          HEIGHT="42"
+                          WIDTH="670"
+                          VPOS="1991"
+                          HPOS="84"
+                          CONTENT="ghewoonelijcke Illuminatien, Vierwercken,"/>
+               </TextLine>
+               <TextLine ID="r_6_1l19"
+                         BASELINE="89,2055 122,2055 155,2055 189,2055 222,2055 256,2055 289,2055 323,2054 356,2054 390,2054 423,2054 456,2054 490,2052 523,2052 557,2052 590,2051 624,2051 657,2050 691,2049 724,2049 758,2048"
+                         HEIGHT="50"
+                         WIDTH="679"
+                         VPOS="2016"
+                         HPOS="84">
+                  <String ID="string_r_6_1l19"
+                          HEIGHT="50"
+                          WIDTH="679"
+                          VPOS="2016"
+                          HPOS="84"
+                          CONTENT="ende salvos uyt het Canon wirt gheviert."/>
+               </TextLine>
+               <TextLine ID="r_6_1l20"
+                         BASELINE="83,2093 116,2093 149,2094 182,2094 216,2094 249,2094 282,2094 316,2094 349,2093 382,2093 416,2093 449,2093 482,2093 515,2091 549,2091 582,2091 615,2091 649,2091 682,2090 715,2090 749,2090"
+                         HEIGHT="62"
+                         WIDTH="676"
+                         VPOS="2053"
+                         HPOS="78">
+                  <String ID="string_r_6_1l20"
+                          HEIGHT="62"
+                          WIDTH="676"
+                          VPOS="2053"
+                          HPOS="78"
+                          CONTENT="Monsignor Albani is door sijne Heyligheyt"/>
+               </TextLine>
+               <TextLine ID="r_6_1l21"
+                         BASELINE="95,2132 128,2132 161,2132 195,2133 228,2133 261,2133 295,2133 328,2133 361,2132 395,2132 428,2132 461,2130 495,2130 528,2130 561,2130 595,2130 628,2129 661,2130 695,2130 728,2130 762,2130"
+                         HEIGHT="47"
+                         WIDTH="678"
+                         VPOS="2099"
+                         HPOS="89">
+                  <String ID="string_r_6_1l21"
+                          HEIGHT="47"
+                          WIDTH="678"
+                          VPOS="2099"
+                          HPOS="89"
+                          CONTENT="benoempt tot Secretaris van de Memorialen,"/>
+               </TextLine>
+               <TextLine ID="r_6_1l22"
+                         BASELINE="99,2168 131,2169 164,2171 197,2172 230,2172 263,2172 295,2172 328,2172 361,2172 394,2171 427,2171 459,2171 492,2169 525,2169 558,2169 590,2168 623,2168 656,2168 689,2168 722,2169 755,2169"
+                         HEIGHT="45"
+                         WIDTH="666"
+                         VPOS="2137"
+                         HPOS="94">
+                  <String ID="string_r_6_1l22"
+                          HEIGHT="45"
+                          WIDTH="666"
+                          VPOS="2137"
+                          HPOS="94"
+                          CONTENT="het welck doet gissen dat hy eerstdaeghs met"/>
+               </TextLine>
+               <TextLine ID="r_6_1l23"
+                         BASELINE="89,2208 122,2210 155,2210 189,2210 222,2211 256,2211 289,2211 323,2211 356,2210 390,2210 423,2210 456,2210 490,2210 523,2208 557,2208 590,2208 624,2209 657,2210 691,2210 724,2211 758,2211"
+                         HEIGHT="64"
+                         WIDTH="679"
+                         VPOS="2173"
+                         HPOS="84">
+                  <String ID="string_r_6_1l23"
+                          HEIGHT="64"
+                          WIDTH="679"
+                          VPOS="2173"
+                          HPOS="84"
+                          CONTENT="eenen Cardinaels-hoet sal worden begiftight."/>
+               </TextLine>
+               <TextLine ID="r_6_1l24"
+                         BASELINE="179,2249 204,2250 230,2250 255,2250 281,2252 306,2252 332,2251 358,2250 383,2250 409,2250 434,2249 460,2249 485,2248 511,2247 537,2247 562,2247 588,2247 613,2247 639,2249 665,2249"
+                         HEIGHT="59"
+                         WIDTH="497"
+                         VPOS="2212"
+                         HPOS="173">
+                  <String ID="string_r_6_1l24"
+                          HEIGHT="59"
+                          WIDTH="497"
+                          VPOS="2212"
+                          HPOS="173"
+                          CONTENT="LIVORNO, den 19. December."/>
+               </TextLine>
+               <TextLine ID="r_6_1l25"
+                         BASELINE="125,2291 156,2291 187,2291 219,2291 250,2291 281,2291 313,2292 344,2292 375,2292 407,2292 438,2292 469,2292 501,2292 532,2292 563,2291 595,2291 626,2291 657,2291 689,2291 720,2291 752,2289"
+                         HEIGHT="60"
+                         WIDTH="637"
+                         VPOS="2253"
+                         HPOS="120">
+                  <String ID="string_r_6_1l25"
+                          HEIGHT="60"
+                          WIDTH="637"
+                          VPOS="2253"
+                          HPOS="120"
+                          CONTENT="Alle de advisen, die wy hier uyt Sicilien"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r_7_1" HEIGHT="1618" WIDTH="720" VPOS="692" HPOS="848">
+               <Shape>
+                  <Polygon POINTS="848,692 1568,692 1568,2310 848,2310"/>
+               </Shape>
+               <TextLine ID="r_7_1l1"
+                         BASELINE="849,738 883,737 917,737 951,735 986,734 1020,733 1054,732 1089,732 1123,731 1157,731 1192,729 1226,729 1260,729 1294,728 1329,728 1363,728 1397,726 1432,726 1466,725 1500,725 1535,723"
+                         HEIGHT="72"
+                         WIDTH="699"
+                         VPOS="671"
+                         HPOS="842">
+                  <String ID="string_r_7_1l1"
+                          HEIGHT="72"
+                          WIDTH="699"
+                          VPOS="671"
+                          HPOS="842"
+                          CONTENT="becomen, sijn ten opsichte van Melazzo,"/>
+               </TextLine>
+               <TextLine ID="r_7_1l2"
+                         BASELINE="864,777 897,776 931,775 965,774 999,774 1033,773 1067,773 1100,771 1134,771 1168,770 1202,770 1236,768 1270,768 1304,767 1337,767 1371,765 1405,765 1439,764 1473,762 1507,762 1541,761"
+                         HEIGHT="62"
+                         WIDTH="687"
+                         VPOS="731"
+                         HPOS="859">
+                  <String ID="string_r_7_1l2"
+                          HEIGHT="62"
+                          WIDTH="687"
+                          VPOS="731"
+                          HPOS="859"
+                          CONTENT="tot noch toe seer voordeeligh voor de Duyt-"/>
+               </TextLine>
+               <TextLine ID="r_7_1l3"
+                         BASELINE="864,816 897,816 931,815 965,813 998,813 1032,812 1066,812 1099,810 1133,810 1167,810 1201,809 1234,809 1268,809 1302,807 1335,807 1369,806 1403,806 1436,804 1470,803 1504,803 1538,801"
+                         HEIGHT="59"
+                         WIDTH="686"
+                         VPOS="770"
+                         HPOS="858">
+                  <String ID="string_r_7_1l3"
+                          HEIGHT="59"
+                          WIDTH="686"
+                          VPOS="770"
+                          HPOS="858"
+                          CONTENT="schen. De Engelsche Cruyssers laeten geene"/>
+               </TextLine>
+               <TextLine ID="r_7_1l4"
+                         BASELINE="855,854 889,854 923,854 957,854 991,854 1025,854 1059,852 1094,852 1128,852 1162,851 1196,850 1230,849 1264,849 1298,848 1333,846 1367,845 1401,845 1435,843 1469,842 1503,842 1538,840"
+                         HEIGHT="65"
+                         WIDTH="694"
+                         VPOS="808"
+                         HPOS="849">
+                  <String ID="string_r_7_1l4"
+                          HEIGHT="65"
+                          WIDTH="694"
+                          VPOS="808"
+                          HPOS="849"
+                          CONTENT="Schepen, van wat natie die oock moghen"/>
+               </TextLine>
+               <TextLine ID="r_7_1l5"
+                         BASELINE="867,896 900,896 933,894 967,894 1000,893 1034,893 1067,893 1100,891 1134,891 1167,891 1201,890 1234,890 1267,889 1301,888 1334,888 1368,887 1401,886 1434,885 1468,884 1501,882 1535,881"
+                         HEIGHT="58"
+                         WIDTH="678"
+                         VPOS="852"
+                         HPOS="862">
+                  <String ID="string_r_7_1l5"
+                          HEIGHT="58"
+                          WIDTH="678"
+                          VPOS="852"
+                          HPOS="862"
+                          CONTENT="wesen, naer Sicilien door passeren, sonder"/>
+               </TextLine>
+               <TextLine ID="r_7_1l6"
+                         BASELINE="864,936 897,935 931,933 964,933 998,932 1031,932 1065,930 1098,930 1132,930 1165,929 1199,929 1233,929 1266,929 1300,927 1333,927 1367,927 1400,926 1434,924 1467,923 1501,922 1535,920"
+                         HEIGHT="58"
+                         WIDTH="682"
+                         VPOS="894"
+                         HPOS="858">
+                  <String ID="string_r_7_1l6"
+                          HEIGHT="58"
+                          WIDTH="682"
+                          VPOS="894"
+                          HPOS="858"
+                          CONTENT="de selve te visiteren, ende daer uyt te nemen"/>
+               </TextLine>
+               <TextLine ID="r_7_1l7"
+                         BASELINE="866,975 899,975 932,974 965,974 999,972 1032,972 1065,971 1099,971 1132,971 1165,969 1199,969 1232,969 1265,968 1298,968 1332,968 1365,966 1398,966 1432,965 1465,965 1498,963 1532,962"
+                         HEIGHT="55"
+                         WIDTH="677"
+                         VPOS="927"
+                         HPOS="860">
+                  <String ID="string_r_7_1l7"
+                          HEIGHT="55"
+                          WIDTH="677"
+                          VPOS="927"
+                          HPOS="860"
+                          CONTENT="alle Oorloghs-munitien, Levens-middelen,"/>
+               </TextLine>
+               <TextLine ID="r_7_1l8"
+                         BASELINE="867,1016 895,1014 923,1014 951,1014 979,1013 1007,1013 1035,1013"
+                         HEIGHT="60"
+                         WIDTH="179"
+                         VPOS="976"
+                         HPOS="861">
+                  <String ID="string_r_7_1l8"
+                          HEIGHT="60"
+                          WIDTH="179"
+                          VPOS="976"
+                          HPOS="861"
+                          CONTENT="ende Geldt."/>
+               </TextLine>
+               <TextLine ID="r_7_1l9"
+                         BASELINE="972,1053 997,1052 1023,1051 1048,1050 1074,1050 1100,1049 1125,1049 1151,1047 1176,1047 1202,1047 1228,1047 1253,1046 1279,1046 1304,1046 1330,1046 1356,1046 1381,1044 1407,1044 1433,1043"
+                         HEIGHT="88"
+                         WIDTH="471"
+                         VPOS="984"
+                         HPOS="967">
+                  <String ID="string_r_7_1l9"
+                          HEIGHT="88"
+                          WIDTH="471"
+                          VPOS="984"
+                          HPOS="967"
+                          CONTENT="GENUA, den 12. December."/>
+               </TextLine>
+               <TextLine ID="r_7_1l10"
+                         BASELINE="909,1092 940,1091 971,1091 1002,1091 1034,1091 1065,1089 1096,1089 1128,1089 1159,1088 1190,1088 1222,1088 1253,1086 1284,1086 1315,1085 1347,1085 1378,1084 1409,1083 1441,1083 1472,1083 1503,1082 1535,1082"
+                         HEIGHT="63"
+                         WIDTH="636"
+                         VPOS="1043"
+                         HPOS="903">
+                  <String ID="string_r_7_1l10"
+                          HEIGHT="63"
+                          WIDTH="636"
+                          VPOS="1043"
+                          HPOS="903"
+                          CONTENT="De 60ooo. Pistolen , die den Keyser van"/>
+               </TextLine>
+               <TextLine ID="r_7_1l11"
+                         BASELINE="857,1134 892,1134 928,1133 964,1133 999,1131 1035,1130 1071,1130 1107,1129 1142,1128 1178,1127 1214,1127 1250,1127 1285,1125 1321,1125 1357,1125 1393,1125 1428,1125 1464,1125 1500,1125 1536,1125"
+                         HEIGHT="63"
+                         WIDTH="691"
+                         VPOS="1092"
+                         HPOS="851">
+                  <String ID="string_r_7_1l11"
+                          HEIGHT="63"
+                          WIDTH="691"
+                          VPOS="1092"
+                          HPOS="851"
+                          CONTENT="onse Republique door den Grave Stampa ge-"/>
+               </TextLine>
+               <TextLine ID="r_7_1l12"
+                         BASELINE="870,1173 903,1173 936,1172 969,1172 1003,1170 1036,1170 1069,1169 1102,1169 1136,1169 1169,1167 1202,1167 1235,1166 1269,1166 1302,1165 1335,1164 1368,1164 1402,1164 1435,1163 1468,1163 1501,1163 1535,1163"
+                         HEIGHT="66"
+                         WIDTH="675"
+                         VPOS="1127"
+                         HPOS="865">
+                  <String ID="string_r_7_1l12"
+                          HEIGHT="66"
+                          WIDTH="675"
+                          VPOS="1127"
+                          HPOS="865"
+                          CONTENT="vraeght heeft voor Contributie-gelden, sijn"/>
+               </TextLine>
+               <TextLine ID="r_7_1l13"
+                         BASELINE="870,1215 903,1214 937,1212 970,1211 1004,1210 1037,1209 1071,1208 1104,1208 1138,1207 1171,1206 1205,1206 1239,1206 1272,1205 1306,1205 1339,1205 1373,1203 1406,1203 1440,1202 1473,1201 1507,1200 1541,1199"
+                         HEIGHT="54"
+                         WIDTH="682"
+                         VPOS="1165"
+                         HPOS="864">
+                  <String ID="string_r_7_1l13"
+                          HEIGHT="54"
+                          WIDTH="682"
+                          VPOS="1165"
+                          HPOS="864"
+                          CONTENT="op 36000. ghemodereert, doch moeten eerst-"/>
+               </TextLine>
+               <TextLine ID="r_7_1l14"
+                         BASELINE="870,1254 903,1253 937,1253 970,1251 1004,1250 1037,1250 1071,1248 1104,1248 1138,1248 1171,1247 1205,1247 1239,1245 1272,1245 1306,1245 1339,1244 1373,1244 1406,1243 1440,1242 1473,1242 1507,1241 1541,1241"
+                         HEIGHT="67"
+                         WIDTH="683"
+                         VPOS="1208"
+                         HPOS="864">
+                  <String ID="string_r_7_1l14"
+                          HEIGHT="67"
+                          WIDTH="683"
+                          VPOS="1208"
+                          HPOS="864"
+                          CONTENT="daeghs betaelt worden. Men hoort hier"/>
+               </TextLine>
+               <TextLine ID="r_7_1l15"
+                         BASELINE="864,1293 893,1293 922,1292 952,1292 981,1292 1011,1290 1040,1290 1069,1289 1099,1289 1128,1287 1158,1287 1187,1286 1216,1286 1246,1284 1275,1284 1305,1283 1334,1283 1363,1283 1393,1283 1422,1283 1452,1283"
+                         HEIGHT="65"
+                         WIDTH="599"
+                         VPOS="1246"
+                         HPOS="858">
+                  <String ID="string_r_7_1l15"
+                          HEIGHT="65"
+                          WIDTH="599"
+                          VPOS="1246"
+                          HPOS="858"
+                          CONTENT="vreemde raisonnementen van Melazzo."/>
+               </TextLine>
+               <TextLine ID="r_7_1l16"
+                         BASELINE="954,1329 979,1329 1005,1328 1031,1328 1057,1328 1083,1328 1109,1328 1135,1328 1161,1326 1187,1326 1212,1326 1238,1325 1264,1325 1290,1325 1316,1323 1342,1323 1368,1323 1394,1322 1420,1322 1446,1322"
+                         HEIGHT="56"
+                         WIDTH="504"
+                         VPOS="1295"
+                         HPOS="948">
+                  <String ID="string_r_7_1l16"
+                          HEIGHT="56"
+                          WIDTH="504"
+                          VPOS="1295"
+                          HPOS="948"
+                          CONTENT="MILANEN, den 14. December."/>
+               </TextLine>
+               <TextLine ID="r_7_1l17"
+                         BASELINE="915,1371 946,1370 977,1369 1008,1368 1040,1368 1071,1367 1102,1367 1134,1367 1165,1365 1196,1365 1228,1365 1259,1365 1290,1364 1321,1364 1353,1364 1384,1362 1415,1362 1447,1361 1478,1360 1509,1359 1541,1358"
+                         HEIGHT="79"
+                         WIDTH="636"
+                         VPOS="1314"
+                         HPOS="910">
+                  <String ID="string_r_7_1l17"
+                          HEIGHT="79"
+                          WIDTH="636"
+                          VPOS="1314"
+                          HPOS="910"
+                          CONTENT="Volghens de leste brieven, die wy hier"/>
+               </TextLine>
+               <TextLine ID="r_7_1l18"
+                         BASELINE="870,1413 903,1412 937,1410 970,1409 1004,1409 1038,1407 1071,1407 1105,1406 1138,1405 1172,1404 1206,1404 1239,1403 1273,1403 1306,1401 1340,1401 1374,1401 1407,1400 1441,1400 1474,1400 1508,1400 1542,1400"
+                         HEIGHT="66"
+                         WIDTH="683"
+                         VPOS="1362"
+                         HPOS="864">
+                  <String ID="string_r_7_1l18"
+                          HEIGHT="66"
+                          WIDTH="683"
+                          VPOS="1362"
+                          HPOS="864"
+                          CONTENT="hebben becomen van Reggio van den 2. de¬"/>
+               </TextLine>
+               <TextLine ID="r_7_1l19"
+                         BASELINE="857,1451 891,1451 925,1449 960,1449 994,1449 1028,1448 1063,1448 1097,1446 1131,1446 1166,1446 1200,1445 1234,1445 1269,1444 1303,1443 1337,1443 1372,1442 1406,1442 1440,1441 1475,1440 1509,1439 1544,1439"
+                         HEIGHT="66"
+                         WIDTH="698"
+                         VPOS="1403"
+                         HPOS="852">
+                  <String ID="string_r_7_1l19"
+                          HEIGHT="66"
+                          WIDTH="698"
+                          VPOS="1403"
+                          HPOS="852"
+                          CONTENT="ser, verwacht-men daghelijckx tijdinghe dat"/>
+               </TextLine>
+               <TextLine ID="r_7_1l20"
+                         BASELINE="863,1493 897,1491 931,1490 965,1490 1000,1488 1034,1487 1068,1487 1102,1487 1137,1485 1171,1485 1205,1485 1239,1484 1274,1484 1308,1482 1342,1482 1376,1482 1411,1481 1445,1479 1479,1479 1513,1478 1548,1478"
+                         HEIGHT="55"
+                         WIDTH="695"
+                         VPOS="1451"
+                         HPOS="858">
+                  <String ID="string_r_7_1l20"
+                          HEIGHT="55"
+                          WIDTH="695"
+                          VPOS="1451"
+                          HPOS="858"
+                          CONTENT="de Trouppen van den Keyser het secours sul-"/>
+               </TextLine>
+               <TextLine ID="r_7_1l21"
+                         BASELINE="864,1530 898,1529 932,1529 966,1529 1001,1527 1035,1527 1069,1527 1104,1526 1138,1526 1172,1524 1207,1524 1241,1524 1275,1523 1309,1522 1344,1521 1378,1521 1412,1520 1447,1520 1481,1518 1515,1518 1550,1517"
+                         HEIGHT="69"
+                         WIDTH="697"
+                         VPOS="1482"
+                         HPOS="858">
+                  <String ID="string_r_7_1l21"
+                          HEIGHT="69"
+                          WIDTH="697"
+                          VPOS="1482"
+                          HPOS="858"
+                          CONTENT="len hebben ghetenteert van Melazzo. Van"/>
+               </TextLine>
+               <TextLine ID="r_7_1l22"
+                         BASELINE="864,1569 898,1568 932,1568 966,1568 1001,1568 1035,1567 1069,1566 1104,1566 1138,1566 1172,1565 1207,1565 1241,1563 1275,1563 1309,1562 1344,1562 1378,1560 1412,1560 1447,1559 1481,1559 1515,1557 1550,1556"
+                         HEIGHT="67"
+                         WIDTH="697"
+                         VPOS="1517"
+                         HPOS="858">
+                  <String ID="string_r_7_1l22"
+                          HEIGHT="67"
+                          WIDTH="697"
+                          VPOS="1517"
+                          HPOS="858"
+                          CONTENT="Turin heeft-men dat de hope aen dat Hoff"/>
+               </TextLine>
+               <TextLine ID="r_7_1l23"
+                         BASELINE="878,1607 911,1608 945,1608 978,1608 1012,1608 1046,1607 1079,1607 1113,1607 1146,1607 1180,1605 1214,1605 1247,1604 1281,1604 1314,1602 1348,1601 1382,1601 1415,1601 1449,1599 1482,1599 1516,1599 1550,1598"
+                         HEIGHT="48"
+                         WIDTH="682"
+                         VPOS="1577"
+                         HPOS="873">
+                  <String ID="string_r_7_1l23"
+                          HEIGHT="48"
+                          WIDTH="682"
+                          VPOS="1577"
+                          HPOS="873"
+                          CONTENT="vermeerderde dat het houwelijck van den"/>
+               </TextLine>
+               <TextLine ID="r_7_1l24"
+                         BASELINE="870,1650 903,1649 937,1649 971,1648 1004,1647 1038,1647 1072,1646 1105,1646 1139,1645 1173,1644 1207,1644 1240,1643 1274,1643 1308,1641 1341,1641 1375,1641 1409,1640 1442,1639 1476,1638 1510,1637 1544,1637"
+                         HEIGHT="72"
+                         WIDTH="685"
+                         VPOS="1600"
+                         HPOS="864">
+                  <String ID="string_r_7_1l24"
+                          HEIGHT="72"
+                          WIDTH="685"
+                          VPOS="1600"
+                          HPOS="864"
+                          CONTENT="Prins van Piemont met eene Keyserlijcke"/>
+               </TextLine>
+               <TextLine ID="r_7_1l25"
+                         BASELINE="867,1688 901,1688 935,1688 969,1688 1004,1688 1038,1688 1072,1688 1107,1686 1141,1686 1175,1686 1210,1685 1244,1685 1278,1685 1312,1683 1347,1682 1381,1682 1415,1680 1450,1679 1484,1679 1518,1677 1553,1676"
+                         HEIGHT="75"
+                         WIDTH="696"
+                         VPOS="1640"
+                         HPOS="862">
+                  <String ID="string_r_7_1l25"
+                          HEIGHT="75"
+                          WIDTH="696"
+                          VPOS="1640"
+                          HPOS="862"
+                          CONTENT="Princesse noch eyndelijck soude gheluc-"/>
+               </TextLine>
+               <TextLine ID="r_7_1l26"
+                         BASELINE="870,1731 896,1731 922,1731 948,1731"
+                         HEIGHT="49"
+                         WIDTH="88"
+                         VPOS="1699"
+                         HPOS="865">
+                  <String ID="string_r_7_1l26"
+                          HEIGHT="49"
+                          WIDTH="88"
+                          VPOS="1699"
+                          HPOS="865"
+                          CONTENT="ken."/>
+               </TextLine>
+               <TextLine ID="r_7_1l27"
+                         BASELINE="941,1766 967,1766 993,1766 1019,1766 1045,1766 1071,1766 1097,1766 1123,1764 1149,1764 1175,1764 1202,1763 1228,1763 1254,1763 1280,1762 1306,1761 1332,1761 1358,1761 1384,1760 1410,1760 1436,1760 1463,1760"
+                         HEIGHT="65"
+                         WIDTH="532"
+                         VPOS="1716"
+                         HPOS="936">
+                  <String ID="string_r_7_1l27"
+                          HEIGHT="65"
+                          WIDTH="532"
+                          VPOS="1716"
+                          HPOS="936"
+                          CONTENT="VENETIEN, den 17. December."/>
+               </TextLine>
+               <TextLine ID="r_7_1l28"
+                         BASELINE="911,1808 943,1806 975,1806 1008,1805 1040,1805 1073,1805 1105,1805 1137,1803 1170,1803 1202,1803 1235,1803 1267,1803 1299,1803 1332,1802 1364,1802 1397,1802 1429,1801 1461,1800 1494,1800 1526,1799 1559,1797"
+                         HEIGHT="57"
+                         WIDTH="659"
+                         VPOS="1768"
+                         HPOS="906">
+                  <String ID="string_r_7_1l28"
+                          HEIGHT="57"
+                          WIDTH="659"
+                          VPOS="1768"
+                          HPOS="906"
+                          CONTENT="Sen Generael Schuylemborgh, die voor"/>
+               </TextLine>
+               <TextLine ID="r_7_1l29"
+                         BASELINE="870,1848 904,1847 938,1847 972,1847 1006,1845 1040,1845 1074,1845 1108,1844 1142,1844 1176,1843 1210,1842 1244,1842 1278,1841 1312,1841 1346,1841 1380,1841 1414,1839 1448,1839 1482,1839 1516,1838 1550,1838"
+                         HEIGHT="65"
+                         WIDTH="691"
+                         VPOS="1802"
+                         HPOS="864">
+                  <String ID="string_r_7_1l29"
+                          HEIGHT="65"
+                          WIDTH="691"
+                          VPOS="1802"
+                          HPOS="864"
+                          CONTENT="dry andere Jaeren in den dienst van dese Re-"/>
+               </TextLine>
+               <TextLine ID="r_7_1l30"
+                         BASELINE="878,1889 911,1889 945,1887 979,1886 1013,1886 1047,1884 1080,1884 1114,1884 1148,1884 1182,1883 1216,1883 1249,1883 1283,1883 1317,1882 1351,1881 1384,1881 1418,1880 1452,1878 1486,1877 1520,1875 1554,1874"
+                         HEIGHT="53"
+                         WIDTH="686"
+                         VPOS="1855"
+                         HPOS="873">
+                  <String ID="string_r_7_1l30"
+                          HEIGHT="53"
+                          WIDTH="686"
+                          VPOS="1855"
+                          HPOS="873"
+                          CONTENT="publique is gheconfirmeert, sal binnen wey-"/>
+               </TextLine>
+               <TextLine ID="r_7_1l31"
+                         BASELINE="876,1928 910,1926 944,1926 978,1926 1012,1925 1046,1925 1080,1925 1114,1924 1148,1923 1182,1923 1216,1923 1250,1922 1284,1922 1318,1922 1352,1922 1386,1920 1420,1920 1454,1920 1488,1920 1522,1919 1556,1919"
+                         HEIGHT="57"
+                         WIDTH="690"
+                         VPOS="1888"
+                         HPOS="871">
+                  <String ID="string_r_7_1l31"
+                          HEIGHT="57"
+                          WIDTH="690"
+                          VPOS="1888"
+                          HPOS="871"
+                          CONTENT="nighe weken naer Corsu te rugh keeren, om"/>
+               </TextLine>
+               <TextLine ID="r_7_1l32"
+                         BASELINE="870,1967 904,1967 938,1965 972,1965 1006,1965 1040,1965 1074,1964 1109,1964 1143,1964 1177,1964 1211,1962 1245,1962 1279,1962 1313,1962 1348,1961 1382,1961 1416,1961 1450,1959 1484,1959 1518,1959 1553,1958"
+                         HEIGHT="63"
+                         WIDTH="693"
+                         VPOS="1922"
+                         HPOS="864">
+                  <String ID="string_r_7_1l32"
+                          HEIGHT="63"
+                          WIDTH="693"
+                          VPOS="1922"
+                          HPOS="864"
+                          CONTENT="de oude Fortresse van die stadt, die door"/>
+               </TextLine>
+               <TextLine ID="r_7_1l33"
+                         BASELINE="873,2007 906,2007 940,2006 974,2006 1007,2006 1041,2004 1075,2004 1108,2004 1142,2003 1176,2003 1210,2003 1243,2002 1277,2001 1311,2001 1344,2000 1378,2000 1412,2000 1445,1998 1479,1998 1513,1998 1547,1997"
+                         HEIGHT="66"
+                         WIDTH="684"
+                         VPOS="1960"
+                         HPOS="868">
+                  <String ID="string_r_7_1l33"
+                          HEIGHT="66"
+                          WIDTH="684"
+                          VPOS="1960"
+                          HPOS="868"
+                          CONTENT="het springhen van het Poeder-magazyn"/>
+               </TextLine>
+               <TextLine ID="r_7_1l34"
+                         BASELINE="878,2051 911,2049 945,2048 978,2046 1012,2045 1046,2045 1079,2044 1113,2043 1146,2043 1180,2043 1214,2042 1247,2042 1281,2042 1314,2042 1348,2042 1382,2040 1415,2040 1449,2039 1482,2039 1516,2037 1550,2036"
+                         HEIGHT="57"
+                         WIDTH="682"
+                         VPOS="2010"
+                         HPOS="873">
+                  <String ID="string_r_7_1l34"
+                          HEIGHT="57"
+                          WIDTH="682"
+                          VPOS="2010"
+                          HPOS="873"
+                          CONTENT="gansch overhoop light, te doen herstellen,"/>
+               </TextLine>
+               <TextLine ID="r_7_1l35"
+                         BASELINE="870,2088 903,2087 937,2087 971,2085 1005,2085 1039,2084 1073,2084 1107,2084 1141,2084 1175,2082 1209,2082 1242,2082 1276,2081 1310,2081 1344,2081 1378,2079 1412,2079 1446,2078 1480,2078 1514,2076 1548,2076"
+                         HEIGHT="65"
+                         WIDTH="688"
+                         VPOS="2041"
+                         HPOS="865">
+                  <String ID="string_r_7_1l35"
+                          HEIGHT="65"
+                          WIDTH="688"
+                          VPOS="2041"
+                          HPOS="865"
+                          CONTENT="tot welcken eynde hier verscheyde Schepen"/>
+               </TextLine>
+               <TextLine ID="r_7_1l36"
+                         BASELINE="870,2124 903,2124 937,2124 971,2124 1005,2124 1039,2124 1073,2124 1107,2124 1141,2124 1175,2123 1209,2123 1242,2121 1276,2121 1310,2121 1344,2120 1378,2120 1412,2120 1446,2120 1480,2120 1514,2120 1548,2120"
+                         HEIGHT="52"
+                         WIDTH="688"
+                         VPOS="2085"
+                         HPOS="865">
+                  <String ID="string_r_7_1l36"
+                          HEIGHT="52"
+                          WIDTH="688"
+                          VPOS="2085"
+                          HPOS="865"
+                          CONTENT="worden gheladen met de Materialen, tot"/>
+               </TextLine>
+               <TextLine ID="r_7_1l37"
+                         BASELINE="881,2165 914,2165 948,2165 981,2165 1015,2163 1048,2163 1082,2163 1115,2163 1149,2163 1182,2162 1216,2162 1249,2162 1283,2162 1316,2162 1350,2160 1383,2160 1417,2160 1450,2160 1484,2159 1517,2159 1551,2159"
+                         HEIGHT="50"
+                         WIDTH="680"
+                         VPOS="2126"
+                         HPOS="876">
+                  <String ID="string_r_7_1l37"
+                          HEIGHT="50"
+                          WIDTH="680"
+                          VPOS="2126"
+                          HPOS="876"
+                          CONTENT="dien apbouw noodigh, de welcke ten eer-"/>
+               </TextLine>
+               <TextLine ID="r_7_1l38"
+                         BASELINE="870,2208 903,2207 937,2207 971,2205 1004,2205 1038,2204 1072,2204 1105,2202 1139,2202 1173,2202 1207,2202 1240,2201 1274,2201 1308,2201 1341,2201 1375,2199 1409,2199 1442,2199 1476,2199 1510,2198 1544,2198"
+                         HEIGHT="52"
+                         WIDTH="684"
+                         VPOS="2165"
+                         HPOS="865">
+                  <String ID="string_r_7_1l38"
+                          HEIGHT="52"
+                          WIDTH="684"
+                          VPOS="2165"
+                          HPOS="865"
+                          CONTENT="sten de reys sullen voortsetten naer de Levan-"/>
+               </TextLine>
+               <TextLine ID="r_7_1l39"
+                         BASELINE="885,2247 918,2247 952,2246 985,2246 1019,2246 1052,2246 1086,2244 1119,2244 1153,2243 1186,2243 1220,2243 1254,2241 1287,2241 1321,2241 1354,2240 1388,2240 1421,2240 1455,2240 1488,2239 1522,2238 1556,2238"
+                         HEIGHT="54"
+                         WIDTH="681"
+                         VPOS="2204"
+                         HPOS="880">
+                  <String ID="string_r_7_1l39"
+                          HEIGHT="54"
+                          WIDTH="681"
+                          VPOS="2204"
+                          HPOS="880"
+                          CONTENT="te. Den Eerw: Pater Coronelli Minderbroe-"/>
+               </TextLine>
+               <TextLine ID="r_7_1l40"
+                         BASELINE="884,2288 917,2288 951,2288 985,2288 1019,2288 1052,2288 1086,2286 1120,2286 1154,2286 1187,2285 1221,2285 1255,2283 1289,2283 1322,2283 1356,2283 1390,2283 1424,2283 1457,2283 1491,2285 1525,2286 1559,2288"
+                         HEIGHT="74"
+                         WIDTH="685"
+                         VPOS="2246"
+                         HPOS="879">
+                  <String ID="string_r_7_1l40"
+                          HEIGHT="74"
+                          WIDTH="685"
+                          VPOS="2246"
+                          HPOS="879"
+                          CONTENT="der, ende Cosmographus van dese Repu"/>
+               </TextLine>
+            </TextBlock>
+            <GraphicalElement ID="r_8" HEIGHT="114" WIDTH="7" VPOS="533" HPOS="103"/>
+            <GraphicalElement ID="r_9" HEIGHT="134" WIDTH="7" VPOS="569" HPOS="227"/>
+            <GraphicalElement ID="r_10" HEIGHT="1223" WIDTH="19" VPOS="849" HPOS="776"/>
+            <GraphicalElement ID="r_11" HEIGHT="1020" WIDTH="17" VPOS="1143" HPOS="820"/>
+            <GraphicalElement ID="r_12" HEIGHT="292" WIDTH="9" VPOS="848" HPOS="817"/>
+            <Illustration ID="r_1" HEIGHT="419" WIDTH="339" VPOS="301" HPOS="31"/>
+            <Illustration ID="r_3" HEIGHT="422" WIDTH="340" VPOS="277" HPOS="1213"/>
+            <Illustration ID="r_4" HEIGHT="331" WIDTH="333" VPOS="759" HPOS="63"/>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>
