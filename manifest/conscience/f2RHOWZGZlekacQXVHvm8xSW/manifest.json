@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://dams.antwerpen.be/iiif/f2RHOWZGZlekacQXVHvm8xSW/manifest",
+    "@id": "https://raw.githubusercontent.com/nvanderperren/iiif-environment/master/manifest/conscience/f2RHOWZGZlekacQXVHvm8xSW/manifest.json",
     "@type": "sc:Manifest",
     "label": "EHC_E18497_1701_0017_2013_0003.tif",
     "thumbnail": {
@@ -10,7 +10,7 @@
     "attribution": "E 18497:1701,0017, Collectie Stad Antwerpen, Erfgoedbibliotheek Hendrik Conscience",
     "sequences": [
       {
-        "@id": "https://media.antwerpen.be/media/iiif/f2RHOWZGZlekacQXVHvm8xSW/sequence/normal",
+        "@id": "https://raw.githubusercontent.com/nvanderperren/iiif-environment/master/manifest/conscience/f2RHOWZGZlekacQXVHvm8xSW/sequence/normal",
         "@type": "sc:Sequence",
         "rendering": [
           {
@@ -33,7 +33,7 @@
         "viewingHint": "paged",
         "canvases": [
           {
-            "@id": "https://media.antwerpen.be/media/iiif/f2RHOWZGZlekacQXVHvm8xSW/canvas/normal",
+            "@id": "https://raw.githubusercontent.com/nvanderperren/iiif-environment/master/manifest/conscience/f2RHOWZGZlekacQXVHvm8xSW/canvas/normal",
             "@type": "sc:Canvas",
             "label": "EHC_E18497_1701_0017_2013_0003.tif",
             "thumbnail": {
@@ -64,9 +64,9 @@
               {
                 "@type": "oa:Annotation",
                 "motivation": "sc:painting",
-                "on": "https://media.antwerpen.be/media/iiif/f2RHOWZGZlekacQXVHvm8xSW/canvas/normal",
+                "on": "https://raw.githubusercontent.com/nvanderperren/iiif-environment/master/manifest/conscience/f2RHOWZGZlekacQXVHvm8xSW/canvas/normal",
                 "resource": {
-                  "@id": "https://dams.antwerpen.be/iiif/f2RHOWZGZlekacQXVHvm8xSW",
+                  "@id": "https://dams.antwerpen.be/iiif/f2RHOWZGZlekacQXVHvm8xSW/full/full/0/default.jpg",
                   "@type": "dctypes:Image",
                   "label": "EHC_E18497_1701_0017_2013_0003.jpg",
                   "format": "image/jpeg",

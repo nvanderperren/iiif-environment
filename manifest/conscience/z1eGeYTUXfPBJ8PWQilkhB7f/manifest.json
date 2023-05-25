@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://dams.antwerpen.be/iiif/z1eGeYTUXfPBJ8PWQilkhB7f/manifest",
+    "@id": "https://raw.githubusercontent.com/nvanderperren/iiif-environment/master/manifest/conscience/z1eGeYTUXfPBJ8PWQilkhB7f/manifest.json",
     "@type": "sc:Manifest",
     "label": "scan 0007",
     "thumbnail": {
@@ -10,7 +10,7 @@
     "attribution": "B 666, Collectie Stad Antwerpen, Erfgoedbibliotheek Hendrik Conscience",
     "sequences": [
       {
-        "@id": "https://media.antwerpen.be/media/iiif/z1eGeYTUXfPBJ8PWQilkhB7f/sequence/normal",
+        "@id": "https://raw.githubusercontent.com/nvanderperren/iiif-environment/master/manifest/conscience/z1eGeYTUXfPBJ8PWQilkhB7f/sequence/normal",
         "@type": "sc:Sequence",
         "rendering": [
           {
@@ -33,7 +33,7 @@
         "viewingHint": "paged",
         "canvases": [
           {
-            "@id": "https://media.antwerpen.be/media/iiif/z1eGeYTUXfPBJ8PWQilkhB7f/canvas/normal",
+            "@id": "https://raw.githubusercontent.com/nvanderperren/iiif-environment/master/manifest/conscience/z1eGeYTUXfPBJ8PWQilkhB7f/canvas/normal",
             "@type": "sc:Canvas",
             "label": "scan 0007",
             "thumbnail": {
@@ -64,9 +64,9 @@
               {
                 "@type": "oa:Annotation",
                 "motivation": "sc:painting",
-                "on": "https://media.antwerpen.be/media/iiif/z1eGeYTUXfPBJ8PWQilkhB7f/canvas/normal",
+                "on": "https://raw.githubusercontent.com/nvanderperren/iiif-environment/master/manifest/conscience/z1eGeYTUXfPBJ8PWQilkhB7f/canvas/normal",
                 "resource": {
-                  "@id": "https://dams.antwerpen.be/iiif/z1eGeYTUXfPBJ8PWQilkhB7f",
+                  "@id": "https://dams.antwerpen.be/iiif/z1eGeYTUXfPBJ8PWQilkhB7f/full/full/0/default.jpg",
                   "@type": "dctypes:Image",
                   "label": "EHC_B666_1719_2017_0007.jpg",
                   "format": "image/jpeg",

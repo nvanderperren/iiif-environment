@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://dams.antwerpen.be/iiif/G2eWKMTbXhfqQNGkSix6yBpz/manifest",
+    "@id": "https://raw.githubusercontent.com/nvanderperren/iiif-environment/master/manifest/conscience/G2eWKMTbXhfqQNGkSix6yBpz/manifest.json",
     "@type": "sc:Manifest",
     "label": "EHC_B26858_2017_0007.tif",
     "thumbnail": {
@@ -10,7 +10,7 @@
     "attribution": "B 26858, Collectie Stad Antwerpen, Erfgoedbibliotheek Hendrik Conscience",
     "sequences": [
       {
-        "@id": "https://media.antwerpen.be/media/iiif/G2eWKMTbXhfqQNGkSix6yBpz/sequence/normal",
+        "@id": "https://raw.githubusercontent.com/nvanderperren/iiif-environment/master/manifest/conscience/G2eWKMTbXhfqQNGkSix6yBpz/sequence/normal",
         "@type": "sc:Sequence",
         "rendering": [
           {
@@ -33,7 +33,7 @@
         "viewingHint": "paged",
         "canvases": [
           {
-            "@id": "https://media.antwerpen.be/media/iiif/G2eWKMTbXhfqQNGkSix6yBpz/canvas/normal",
+            "@id": "https://raw.githubusercontent.com/nvanderperren/iiif-environment/master/manifest/conscience/G2eWKMTbXhfqQNGkSix6yBpz/canvas/normal",
             "@type": "sc:Canvas",
             "label": "EHC_B26858_2017_0007.tif",
             "thumbnail": {
@@ -64,9 +64,9 @@
               {
                 "@type": "oa:Annotation",
                 "motivation": "sc:painting",
-                "on": "https://media.antwerpen.be/media/iiif/G2eWKMTbXhfqQNGkSix6yBpz/canvas/normal",
+                "on": "https://raw.githubusercontent.com/nvanderperren/iiif-environment/master/manifest/conscience/G2eWKMTbXhfqQNGkSix6yBpz/canvas/normal",
                 "resource": {
-                  "@id": "https://dams.antwerpen.be/iiif/G2eWKMTbXhfqQNGkSix6yBpz",
+                  "@id": "https://dams.antwerpen.be/iiif/G2eWKMTbXhfqQNGkSix6yBpz/full/full/0/default.jpg",
                   "@type": "dctypes:Image",
                   "label": "EHC_B26858_2017_0007.jpg",
                   "format": "image/jpeg",
