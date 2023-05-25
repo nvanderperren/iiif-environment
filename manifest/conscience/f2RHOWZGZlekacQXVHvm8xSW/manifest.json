@@ -81,7 +81,12 @@
               }
             ],
             "license": "https://creativecommons.org/publicdomain/mark/1.0/deed.nl",
-            "seeAlso": "https://raw.githubusercontent.com/nvanderperren/iiif-environment/master/OCR/Alto4.xml"
+            "seeAlso": {
+              "@id": "https://raw.githubusercontent.com/nvanderperren/iiif-environment/master/OCR/Alto4.xml",
+              "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+              "format": "text/xml",
+              "label": "METS-ALTO XML"
+            }
           }
         ]
       }
