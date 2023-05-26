@@ -5,7 +5,7 @@
     "label": "Volksmacht - 9 januari 1981",
     "description": "Volksmacht - 9 januari 1981 - 37e jaargang nr. 2",
     "thumbnail": {
-      "@id": "https://media.antwerpen.be/media/18/o/o1YCuuBTaQXOFHKVcDQB0ixV/o1YCuuBTaQXOFHKVcDQB0ixV.jpg",
+      "@id": "http://localhost:8182/iiif/3/qs5m62679x_0001_tiff.jpg/full/160,/0/default.jpg",
       "@type": "dctypes:Image"
     },
     "attribution": "meemoo, Vlaams instituut voor het archief",
