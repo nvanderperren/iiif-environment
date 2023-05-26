@@ -93,7 +93,7 @@
             "@type": "sc:Canvas",
             "label": "page 3",
             "thumbnail": {
-              "@id": "ttp://localhost:8182/iiif/3/qs5m62679x_0003_tiff.jpg/full/160,/0/default.jpg",
+              "@id": "http://localhost:8182/iiif/3/qs5m62679x_0003_tiff.jpg/full/160,/0/default.jpg",
               "@type": "dctypes:Image"
             },
             "height": 5530,
@@ -104,7 +104,7 @@
                 "motivation": "sc:painting",
                 "on": "https://raw.githubusercontent.com/nvanderperren/iiif-environment/master/manifest/GIVE_kranten/canvas/3",
                 "resource": {
-                  "@id": "ttp://localhost:8182/iiif/3/qs5m62679x_0003_tiff.jpg/full/max/0/default.jpg",
+                  "@id": "http://localhost:8182/iiif/3/qs5m62679x_0003_tiff.jpg/full/max/0/default.jpg",
                   "@type": "dctypes:Image",
                   "format": "image/jpeg",
                   "height": 5530,
@@ -129,7 +129,7 @@
             "@type": "sc:Canvas",
             "label": "page 4",
             "thumbnail": {
-              "@id": "ttp://localhost:8182/iiif/3/qs5m62679x_0004_tiff.jpg/full/160,/0/default.jpg",
+              "@id": "http://localhost:8182/iiif/3/qs5m62679x_0004_tiff.jpg/full/160,/0/default.jpg",
               "@type": "dctypes:Image"
             },
             "height": 5530,
@@ -140,7 +140,7 @@
                 "motivation": "sc:painting",
                 "on": "https://raw.githubusercontent.com/nvanderperren/iiif-environment/master/manifest/GIVE_kranten/canvas/4",
                 "resource": {
-                  "@id": "ttp://localhost:8182/iiif/3/qs5m62679x_0004_tiff.jpg/full/max/0/default.jpg",
+                  "@id": "http://localhost:8182/iiif/3/qs5m62679x_0004_tiff.jpg/full/max/0/default.jpg",
                   "@type": "dctypes:Image",
                   "format": "image/jpeg",
                   "height": 5530,
@@ -165,7 +165,7 @@
             "@type": "sc:Canvas",
             "label": "page 5",
             "thumbnail": {
-              "@id": "ttp://localhost:8182/iiif/3/qs5m62679x_0005_tiff.jpg/full/160,/0/default.jpg",
+              "@id": "http://localhost:8182/iiif/3/qs5m62679x_0005_tiff.jpg/full/160,/0/default.jpg",
               "@type": "dctypes:Image"
             },
             "height": 5530,
@@ -176,7 +176,7 @@
                 "motivation": "sc:painting",
                 "on": "https://raw.githubusercontent.com/nvanderperren/iiif-environment/master/manifest/GIVE_kranten/canvas/5",
                 "resource": {
-                  "@id": "ttp://localhost:8182/iiif/3/qs5m62679x_0005_tiff.jpg/full/max/0/default.jpg",
+                  "@id": "http://localhost:8182/iiif/3/qs5m62679x_0005_tiff.jpg/full/max/0/default.jpg",
                   "@type": "dctypes:Image",
                   "format": "image/jpeg",
                   "height": 5530,
