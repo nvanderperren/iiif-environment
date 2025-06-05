@@ -33,9 +33,9 @@
                                 "painting"
                             ],
                             "body": {
-                                "id": "https://nvanderperren.github.io/3D/Kloosterling_met_rochet_en_mandel.usdz",
+                                "id": "https://nvanderperren.github.io/3D/Kloosterling_met_rochet_en_mandel.glb",
                                 "type": "Model",
-                                "format": "model/vnd.usdz+zip"
+                                "format": "model/gltf-binary"
                             },
                             "target": "https://example.org/iiif/scene1/page/p1/1"
                         }
