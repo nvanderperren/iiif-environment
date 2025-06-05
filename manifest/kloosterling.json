@@ -33,7 +33,7 @@
                                 "painting"
                             ],
                             "body": {
-                                "id": "https://raw.githubusercontent.com/nvanderperren/iiif-environment/master/3D/kloosterling_met_rochet_en_mantel.glb",
+                                "id": "https://raw.githubusercontent.com/nvanderperren/iiif-environment/master/3D/kloosterling_met_rochet_en_mantel_compressed.glb",
                                 "type": "Model",
                                 "format": "model/gltf-binary"
                             },
