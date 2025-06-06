@@ -98,7 +98,7 @@
     "requiredStatement": {
         "label": {
             "nl": ["Attributie"],
-            "@none": "Attribution"
+            "@none": ["Attribution"]
         },
         "value": {
             "nl": ["Dit object bevindt zich in het publieke domein. Het 3D-mdoel wordt aangeboden door meemoo, Vlaams instituut voor het Archief"],
