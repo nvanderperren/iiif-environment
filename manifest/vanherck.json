@@ -1,0 +1,377 @@
+{
+    "@context": "http://iiif.io/api/presentation/4/context.json",
+    "id": "https://example.org/iiif/3d/model_origin.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "De collectie Van Herck"
+        ],
+        "@none": [
+            "The collection Van Herck"
+        ]
+    },
+    "summary": {
+        "nl": [
+            "De Van Herck collectie bestaat uiet meer dan zevenhonderd tekeningen en 110 terracotta objecten die afkomstig zijn van de 17e tot de 19e eeuw."
+        ],
+        "@none": [
+            "The Van Herck Collection comprises more than 700 drawings and 110 terracotta objects dating from between the 17th and 19th centuries. They are above all preparatory works for monumental sculptures and sculpted ornamental church furniture, made by artists from the Southern Netherlands and particularly from the Antwerp region. Collected by the Antwerp art merchant Charles Van Herck (1884–1955), this exceptional collection was acquired by the King Baudouin Foundation’s Heritage Fund in 1996-1997."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Verzamelaar"
+                ],
+                "@none": [
+                    "Collectioneur"
+                ]
+            },
+            "value": {
+                "@none": [
+                    "Charles Van Herck (1884-1955),"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Beschrijving"
+                ],
+                "@none": [
+                    "Description"
+                ]
+            },
+            "value": {
+                "@none": [
+                    "The drawings and terracotta objects in the Van Herck Collection are a vital source for the study of the Antwerp Baroque period and the process of creating sculptures. They illustrate not only the artists’ creativity and virtuosity but also provide an important historical source since many of the sculptures themselves that were created have disappeared or been destroyed."
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Eigenaar"
+                ],
+                "@none": [
+                    "Owner"
+                ]
+            },
+            "value": {
+                "@none": [
+                    "King Baudouin Foundation's Heritage Fund"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Bewaarplaats"
+                ],
+                "@none": [
+                    "Repository"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "KMSKA"
+                ],
+                "@none": [
+                    "Royal Museum of Fine Arts, Antwerp"
+                ]
+            }
+        },
+        {
+            "label": {
+                "@none": [
+                    "Status"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "Vlaams topstuk"
+                ],
+                "@none": [
+                    "Flemish masterpiece"
+                ]
+            }
+        }
+    ],
+    "requiredStatement": {
+        "label": {
+            "nl": [
+                "Attributie"
+            ],
+            "@none": "Attribution"
+        },
+        "value": {
+            "nl": [
+                "Deze objecten bevinden zich in het publieke domein. De 3D-mdoellen worden aangeboden door meemoo, Vlaams instituut voor het Archief"
+            ],
+            "@none": [
+                "This objects are in the public domain. The 3D models are provided by meemoo, Flemish Institute for Archives"
+            ]
+        }
+    },
+    "provider": [
+        {
+            "id": "https://www.heritage-kbf.be/",
+            "type": "Agent",
+            "label": {
+                "nl": [
+                    "Koning Boudewijnstichting"
+                ],
+                "@none": [
+                    "King Boudoin Foundation"
+                ]
+            }
+        },
+        {
+            "id": "https://www.meemoo.be/",
+            "type": "Agent",
+            "label": {
+                "nl": [
+                    "meemoo, Vlaams instituut voor het archief"
+                ],
+                "@none": [
+                    "meemoo, Flemish Institute for Archives"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://example.org/iiif/scene1/page/p1/1",
+            "type": "Scene",
+            "items": [
+                {
+                    "id": "https://example.org/iiif/scene1/page/p1/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/iiif/3d/anno1",
+                            "type": "Annotation",
+                            "label": {
+                                "nl": [
+                                    "Kloosterling met rochet en mantel"
+                                ],
+                                "@none": [
+                                    "Monk with rochet and cloak"
+                                ]
+                            },
+                            "metadata": [
+                                {
+                                    "label": {
+                                        "nl": [
+                                            "Maker"
+                                        ],
+                                        "@none": [
+                                            "Artist"
+                                        ]
+                                    },
+                                    "value": {
+                                        "nl": [
+                                            "Anoniem (Antwerpen)"
+                                        ],
+                                        "@none": [
+                                            "Anonymous (Antwerp)"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "label": {
+                                        "nl": [
+                                            "Datering"
+                                        ],
+                                        "@none": [
+                                            "Dating"
+                                        ]
+                                    },
+                                    "value": {
+                                        "@none": [
+                                            "17XX"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "label": {
+                                        "nl": [
+                                            "Materiaal"
+                                        ],
+                                        "@none": [
+                                            "Material"
+                                        ]
+                                    },
+                                    "value": {
+                                        "@none": [
+                                            "Terracotta"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "label": {
+                                        "nl": [
+                                            "Afmetingen"
+                                        ],
+                                        "@none": [
+                                            "Dimensions"
+                                        ]
+                                    },
+                                    "value": {
+                                        "@none": [
+                                            "27 x 13 x 11 cm"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "label": {
+                                        "@none": [
+                                            "meemoo PID"
+                                        ]
+                                    },
+                                    "value": {
+                                        "@none": [
+                                            "cz3225wf04"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "label": {
+                                        "@none": [
+                                            "Sketchfab URL"
+                                        ]
+                                    },
+                                    "value": {
+                                        "@none": [
+                                            "https://sketchfab.com/3d-models/kloosterling-met-rochet-en-mantel-daca3cc8e87d469d9c0a3f6d524e1899"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "motivation": [
+                                "painting"
+                            ],
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/nvanderperren/iiif-environment/master/3D/kloosterling_met_rochet_en_mantel_compressed.glb",
+                                "type": "Model",
+                                "format": "model/gltf-binary"
+                            },
+                            "target": "https://example.org/iiif/scene1/page/p1/1"
+                        },
+                        {
+                            "id": "https://example.org/iiif/3d/anno2",
+                            "type": "Annotation",
+                            "label": {
+                                "nl": [
+                                    "O.L.Vrouw met het kind zittend op haar schoot"
+                                ],
+                                "@none": [
+                                    "Madonna with the Child sitting in her lap"
+                                ]
+                            },
+                            "metadata": [
+                                {
+                                    "label": {
+                                        "nl": [
+                                            "Maker"
+                                        ],
+                                        "@none": [
+                                            "Artist"
+                                        ]
+                                    },
+                                    "value": {
+                                        "nl": [
+                                            "Anoniem (Antwerpen)"
+                                        ],
+                                        "@none": [
+                                            "Anonymous (Antwerp)"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "label": {
+                                        "nl": [
+                                            "Datering"
+                                        ],
+                                        "@none": [
+                                            "Dating"
+                                        ]
+                                    },
+                                    "value": {
+                                        "@none": [
+                                            "17XX"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "label": {
+                                        "nl": [
+                                            "Materiaal"
+                                        ],
+                                        "@none": [
+                                            "Material"
+                                        ]
+                                    },
+                                    "value": {
+                                        "@none": [
+                                            "Terracotta"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "label": {
+                                        "nl": [
+                                            "Afmetingen"
+                                        ],
+                                        "@none": [
+                                            "Dimensions"
+                                        ]
+                                    },
+                                    "value": {
+                                        "@none": [
+                                            "27 x 13 x 11 cm"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "label": {
+                                        "@none": [
+                                            "meemoo PID"
+                                        ]
+                                    },
+                                    "value": {
+                                        "@none": [
+                                            "cz3225wf04"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "label": {
+                                        "@none": [
+                                            "Sketchfab URL"
+                                        ]
+                                    },
+                                    "value": {
+                                        "@none": [
+                                            "https://sketchfab.com/3d-models/kloosterling-met-rochet-en-mantel-daca3cc8e87d469d9c0a3f6d524e1899"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "motivation": [
+                                "painting"
+                            ],
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/nvanderperren/iiif-environment/master/3D/o-l-vrouw_met_het_kind_zittend_op_haar_schoot_compressed.glb",
+                                "type": "Model",
+                                "format": "model/gltf-binary"
+                            },
+                            "target": "https://example.org/iiif/scene1/page/p1/1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
