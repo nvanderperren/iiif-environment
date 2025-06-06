@@ -3,22 +3,145 @@
     "id": "https://example.org/iiif/3d/model_origin.json",
     "type": "Manifest",
     "label": {
-        "en": [
-            "Single Model"
+        "nl": [
+            "Kloostering met rochet en mantel"
+        ],
+        "@none": [
+            "Monk with rochet and cloak"
         ]
     },
     "summary": {
-        "en": [
-            "Viewer should render the model at the scene origin, and then viewer should add default lighting and camera"
+        "nl": [
+            "Collectie Van Herck - Kloosterling met rochet en mantel - inv. 80C"
+        ],
+        "@none": [
+            "Collection Van Herck - Monk with rochet and cloak - inv. 80C"
         ]
     },
+    "metadata": [
+        {
+            "label": {
+                "nl": ["Maker"],
+                "@none": ["Artist"]
+            },
+            "value": {
+                "nl": ["Anoniem (Antwerpen)"],
+                "@none": ["Anonymous (Antwerp)"]
+            }
+        },
+        {
+            "label": {
+                "nl": ["Datering"],
+                "@none": ["Dating"]
+            },
+            "value": {
+                "@none": ["17XX"]
+            }
+        },
+        {
+            "label": {
+                "nl": ["Materiaal"],
+                "@none": ["Material"]
+            },
+            "value": {
+                "@none": ["Terracotta"]
+            }
+        },
+        {
+            "label": {
+                "nl": ["Afmetingen"],
+                "@none": ["Dimensions"]
+            },
+            "value": {
+                "@none": ["27 x 13 x 11 cm"]
+            }
+        },
+        {
+            "label": {
+                "nl": ["Collectie"],
+                "@none": ["Collection"]
+            },
+            "value": {
+                "nl": ["Collectie Van Herck - Koning Boudewijnstichting"],
+                "@none": ["Collection Van Herck - King Boudoin Foundation"]
+            }
+        },
+        {
+            "label": {
+                "nl": ["Bewaarplaats"],
+                "@none": ["Repository"]
+            },
+            "value": {
+                "nl": ["KMSKA"],
+                "@none": ["Royal Museum of Fine Arts, Antwerp"]
+            }
+        },
+        {
+            "label": {
+                "@none": ["Status"]
+                
+            },
+            "value": {
+                "nl": ["Vlaams topstuk"],
+                "@none": ["Flemish masterpiece"]
+            }
+        },
+        {
+            "label": {
+                "@none": ["meemoo PID"]
+            },
+            "value": {
+                "@none": ["cz3225wf04"]
+            }
+        }
+    ],
+    "requiredStatement": {
+        "label": {
+            "nl": ["Attributie"],
+            "@none": "Attribution"
+        },
+        "value": {
+            "nl": ["Dit object bevindt zich in het publieke domein. Het 3D-mdoel wordt aangeboden door meemoo, Vlaams instituut voor het Archief"],
+            "@none": ["This object is in the public domain. The 3D model is provided by meemoo, Flemish Institute for Archives"]
+        }
+    },
+    "provider": [
+        {
+            "id": "https://www.heritage-kbf.be/",
+            "type": "Agent",
+            "label": {
+                "nl": ["Koning Boudewijnstichting"],
+                "@none": ["King Boudoin Foundation"]
+            }
+        },
+        {
+            "id": "https://www.meemoo.be/",
+            "type": "Agent",
+            "label": {
+                "nl": ["meemoo, Vlaams instituut voor het archief"],
+                "@none": ["meemoo, Flemish Institute for Archives"]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://vanherck.collectionkbf.be/sites/default/files/inv080C_0.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 323,
+            "height": 398
+        }
+    ],
     "items": [
         {
             "id": "https://example.org/iiif/scene1/page/p1/1",
             "type": "Scene",
             "label": {
-                "en": [
-                    "A Scene"
+                "nl": [
+                    "3D model van dit erfgoedobject"
+                ],
+                "@none": [
+                    "3D model of this heritage object"
                 ]
             },
             "items": [
