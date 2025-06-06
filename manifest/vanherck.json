@@ -25,6 +25,24 @@
         {
             "label": {
                 "nl": [
+                    "Beschrijving"
+                ],
+                "@none": [
+                    "Description"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "De collectie Van Herck bestaat uit meer dan 700 tekeningen en 110 terracotta’s uit de 17e tot en met de 19e eeuw. Het zijn voornamelijk ontwerpen voor monumentale sculpturen of kerkmeubilair van Zuid-Nederlandse - en in het bijzonder Antwerpse - kunstenaars. Deze uitzonderlijke verzameling werd bijeengebracht door de Antwerpse kunsthandelaar Charles Van Herck (1884-1955) en in 1996-1997 aangekocht door het Erfgoedfonds van de Koning Boudewijnstichting."
+                ],
+                "@none": [
+                    "The drawings and terracotta objects in the Van Herck Collection are a vital source for the study of the Antwerp Baroque period and the process of creating sculptures. They illustrate not only the artists’ creativity and virtuosity but also provide an important historical source since many of the sculptures themselves that were created have disappeared or been destroyed."
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
                     "Verzamelaar"
                 ],
                 "@none": [
@@ -52,24 +70,6 @@
                 ],
                 "@none": [
                     "Coming from a veritable dynasty of antique dealers, Charles Van Herck is one of the most famous Antwerp art dealers. He took almost fifty years to assemble this collection of over 800 pieces, which provide a major contribution to the rediscovery of 17th and 18th century Antwerp sculpture."
-                ]
-            }
-        },
-        {
-            "label": {
-                "nl": [
-                    "Beschrijving"
-                ],
-                "@none": [
-                    "Description"
-                ]
-            },
-            "value": {
-                "nl": [
-                    "De collectie Van Herck bestaat uit meer dan 700 tekeningen en 110 terracotta’s uit de 17e tot en met de 19e eeuw. Het zijn voornamelijk ontwerpen voor monumentale sculpturen of kerkmeubilair van Zuid-Nederlandse - en in het bijzonder Antwerpse - kunstenaars. Deze uitzonderlijke verzameling werd bijeengebracht door de Antwerpse kunsthandelaar Charles Van Herck (1884-1955) en in 1996-1997 aangekocht door het Erfgoedfonds van de Koning Boudewijnstichting."
-                ],
-                "@none": [
-                    "The drawings and terracotta objects in the Van Herck Collection are a vital source for the study of the Antwerp Baroque period and the process of creating sculptures. They illustrate not only the artists’ creativity and virtuosity but also provide an important historical source since many of the sculptures themselves that were created have disappeared or been destroyed."
                 ]
             }
         },
