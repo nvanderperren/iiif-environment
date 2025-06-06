@@ -6,6 +6,9 @@
         "nl": [
             "Kloostering met rochet en mantel"
         ],
+        "en": [
+            "Monk with rochet and cloak"
+        ],
         "@none": [
             "Monk with rochet and cloak"
         ]
@@ -13,6 +16,9 @@
     "summary": {
         "nl": [
             "Collectie Van Herck - Kloosterling met rochet en mantel - inv. 80C"
+        ],
+        "en": [
+            "Collection Van Herck - Monk with rochet and cloak - inv. 80C"
         ],
         "@none": [
             "Collection Van Herck - Monk with rochet and cloak - inv. 80C"
@@ -147,6 +153,9 @@
             "label": {
                 "nl": [
                     "3D model van dit erfgoedobject"
+                ],
+                "en": [
+                    "3D model of this heritage object"
                 ],
                 "@none": [
                     "3D model of this heritage object"
