@@ -123,6 +123,21 @@
                     "Flemish masterpiece"
                 ]
             }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Bron"
+                ],
+                "en": [
+                    "Source"
+                ]
+            },
+            "value": {
+                "@none": [
+                    "<a href=\"https://vanherck.collectionkbf.be/\">https://vanherck.collectionkbf.be</a>"
+                ]
+            }
         }
     ],
     "requiredStatement": {
