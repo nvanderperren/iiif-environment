@@ -105,7 +105,7 @@
                 "@none": ["Sketchfab URL"]
             },
             "value": {
-                "@none": ["https://sketchfab.com/3d-models/kloosterling-met-rochet-en-mantel-daca3cc8e87d469d9c0a3f6d524e1899"]
+                "@none": ["<a href=https://sketchfab.com/3d-models/kloosterling-met-rochet-en-mantel-daca3cc8e87d469d9c0a3f6d524e1899>https://sketchfab.com/3d-models/kloosterling-met-rochet-en-mantel-daca3cc8e87d469d9c0a3f6d524e1899</a>"]
             }
         }
     ],
