@@ -63,7 +63,7 @@
             },
             "value": {
                 "nl": ["Collectie Van Herck - Koning Boudewijnstichting"],
-                "@none": ["Collection Van Herck - King Boudoin Foundation"]
+                "@none": ["Collection Van Herck - King Boudoin Foundation's Heritage Fund"]
             }
         },
         {
@@ -92,6 +92,14 @@
             },
             "value": {
                 "@none": ["cz3225wf04"]
+            }
+        },
+        {
+            "label": {
+                "@none": ["Sketchfab URL"]
+            },
+            "value": {
+                "@none": ["https://sketchfab.com/3d-models/kloosterling-met-rochet-en-mantel-daca3cc8e87d469d9c0a3f6d524e1899"]
             }
         }
     ],
