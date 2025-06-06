@@ -12,10 +12,10 @@
     },
     "summary": {
         "nl": [
-            "De Van Herck collectie bestaat uiet meer dan zevenhonderd tekeningen en 110 terracotta objecten die afkomstig zijn van de 17e tot de 19e eeuw."
+            "De collectie Van Herck bestaat uit meer dan 700 tekeningen en 110 terracotta’s uit de 17e tot en met de 19e eeuw. Het zijn voornamelijk ontwerpen voor monumentale sculpturen of kerkmeubilair van Zuid-Nederlandse - en in het bijzonder Antwerpse - kunstenaars. Deze uitzonderlijke verzameling werd bijeengebracht door de Antwerpse kunsthandelaar Charles Van Herck (1884-1955) en in 1996-1997 aangekocht door het Erfgoedfonds van de Koning Boudewijnstichting."
         ],
         "@none": [
-            "The Van Herck Collection comprises more than 700 drawings and 110 terracotta objects dating from between the 17th and 19th centuries. They are above all preparatory works for monumental sculptures and sculpted ornamental church furniture, made by artists from the Southern Netherlands and particularly from the Antwerp region. Collected by the Antwerp art merchant Charles Van Herck (1884–1955), this exceptional collection was acquired by the King Baudouin Foundation’s Heritage Fund in 1996-1997."
+            "The Van Herck Collection comprises more than 700 drawings and 110 terracotta objects dating from between the 17th and 19th centuries. They are above all preparatory works for monumental sculptures and sculpted ornamental church furniture, made by artists from the Southern Netherlands and particularly from the Antwerp region. Collected by the Antwerp art merchant Charles Van Herck (1884–1955), this exceptional collection was acquired by the King Baudouin Foundation's Heritage Fund in 1996-1997."
         ]
     },
     "metadata": [
@@ -25,12 +25,30 @@
                     "Verzamelaar"
                 ],
                 "@none": [
-                    "Collectioneur"
+                    "Collector"
                 ]
             },
             "value": {
                 "@none": [
-                    "Charles Van Herck (1884-1955),"
+                    "Charles Van Herck (1884-1955)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Biografie verzamelaar"
+                ],
+                "@none": [
+                    "Collector's biography"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "Charles Van Herck (1884-1955) stamt uit een antiquairsdynastie en is een van de belangrijkste Antwerpse kunsthandelaars. Dit rijk ensemble van meer dan 800 stuks brengt hij in de loop van bijna 50 jaar bijeen. Zijn onderzoek levert een belangrijke bijdrage aan de herontdekking van de Antwerpse beeldhouwkunst van de 17e en 18e eeuw. "
+                ],
+                "@none": [
+                    "Coming from a veritable dynasty of antique dealers, Charles Van Herck is one of the most famous Antwerp art dealers. He took almost fifty years to assemble this collection of over 800 pieces, which provide a major contribution to the rediscovery of 17th and 18th century Antwerp sculpture."
                 ]
             }
         },
@@ -44,6 +62,9 @@
                 ]
             },
             "value": {
+                "nl": [
+                    "De collectie Van Herck bestaat uit meer dan 700 tekeningen en 110 terracotta’s uit de 17e tot en met de 19e eeuw. Het zijn voornamelijk ontwerpen voor monumentale sculpturen of kerkmeubilair van Zuid-Nederlandse - en in het bijzonder Antwerpse - kunstenaars. Deze uitzonderlijke verzameling werd bijeengebracht door de Antwerpse kunsthandelaar Charles Van Herck (1884-1955) en in 1996-1997 aangekocht door het Erfgoedfonds van de Koning Boudewijnstichting."
+                ],
                 "@none": [
                     "The drawings and terracotta objects in the Van Herck Collection are a vital source for the study of the Antwerp Baroque period and the process of creating sculptures. They illustrate not only the artists’ creativity and virtuosity but also provide an important historical source since many of the sculptures themselves that were created have disappeared or been destroyed."
                 ]
@@ -59,6 +80,9 @@
                 ]
             },
             "value": {
+                "nl": [
+                    "Erfgoedfonds van de Koning Boudewijnstichting"
+                ],
                 "@none": [
                     "King Baudouin Foundation's Heritage Fund"
                 ]
@@ -103,7 +127,9 @@
             "nl": [
                 "Attributie"
             ],
-            "@none": ["Attribution"]
+            "@none": [
+                "Attribution"
+            ]
         },
         "value": {
             "nl": [
@@ -260,20 +286,20 @@
                             "target": {
                                 "type": "SpecificResource",
                                 "source": [
-                                  {
-                                    "id": "https://nvanderperren.github.io/iiif-environment/manifest/vanherck/scene1",
-                                    "type": "Scene"
-                                  }
+                                    {
+                                        "id": "https://nvanderperren.github.io/iiif-environment/manifest/vanherck/scene1",
+                                        "type": "Scene"
+                                    }
                                 ],
                                 "selector": [
-                                  {
-                                    "type": "PointSelector",
-                                    "x": -0.05,
-                                    "y": 0.0,
-                                    "z": 0.0
-                                  }
+                                    {
+                                        "type": "PointSelector",
+                                        "x": -0.01,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    }
                                 ]
-                              }
+                            }
                         },
                         {
                             "id": "https://nvanderperren.github.io/iiif-environment/manifest/vanherck/scene1/page/p1/anno2",
@@ -286,95 +312,6 @@
                                     "Madonna with the Child sitting in her lap"
                                 ]
                             },
-                            "metadata": [
-                                {
-                                    "label": {
-                                        "nl": [
-                                            "Maker"
-                                        ],
-                                        "@none": [
-                                            "Artist"
-                                        ]
-                                    },
-                                    "value": {
-                                        "nl": [
-                                            "Anoniem (Antwerpen)"
-                                        ],
-                                        "@none": [
-                                            "Anonymous (Antwerp)"
-                                        ]
-                                    }
-                                },
-                                {
-                                    "label": {
-                                        "nl": [
-                                            "Datering"
-                                        ],
-                                        "@none": [
-                                            "Dating"
-                                        ]
-                                    },
-                                    "value": {
-                                        "@none": [
-                                            "17XX"
-                                        ]
-                                    }
-                                },
-                                {
-                                    "label": {
-                                        "nl": [
-                                            "Materiaal"
-                                        ],
-                                        "@none": [
-                                            "Material"
-                                        ]
-                                    },
-                                    "value": {
-                                        "@none": [
-                                            "Terracotta"
-                                        ]
-                                    }
-                                },
-                                {
-                                    "label": {
-                                        "nl": [
-                                            "Afmetingen"
-                                        ],
-                                        "@none": [
-                                            "Dimensions"
-                                        ]
-                                    },
-                                    "value": {
-                                        "@none": [
-                                            "27 x 13 x 11 cm"
-                                        ]
-                                    }
-                                },
-                                {
-                                    "label": {
-                                        "@none": [
-                                            "meemoo PID"
-                                        ]
-                                    },
-                                    "value": {
-                                        "@none": [
-                                            "cz3225wf04"
-                                        ]
-                                    }
-                                },
-                                {
-                                    "label": {
-                                        "@none": [
-                                            "Sketchfab URL"
-                                        ]
-                                    },
-                                    "value": {
-                                        "@none": [
-                                            "https://sketchfab.com/3d-models/kloosterling-met-rochet-en-mantel-daca3cc8e87d469d9c0a3f6d524e1899"
-                                        ]
-                                    }
-                                }
-                            ],
                             "motivation": [
                                 "painting"
                             ],
@@ -386,20 +323,57 @@
                             "target": {
                                 "type": "SpecificResource",
                                 "source": [
-                                  {
-                                    "id": "https://nvanderperren.github.io/iiif-environment/manifest/vanherck/scene1",
-                                    "type": "Scene"
-                                  }
+                                    {
+                                        "id": "https://nvanderperren.github.io/iiif-environment/manifest/vanherck/scene1",
+                                        "type": "Scene"
+                                    }
                                 ],
                                 "selector": [
-                                  {
-                                    "type": "PointSelector",
-                                    "x": 0.05,
-                                    "y": 0.0,
-                                    "z": 0.0
-                                  }
+                                    {
+                                        "type": "PointSelector",
+                                        "x": 0.01,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    }
                                 ]
-                              }
+                            }
+                        },
+                        {
+                            "id": "https://nvanderperren.github.io/iiif-environment/manifest/vanherck/scene1/page/p1/anno3",
+                            "type": "Annotation",
+                            "label": {
+                                "nl": [
+                                    "Buste van Théopile Smekens"
+                                ],
+                                "@none": [
+                                    "Bust of Théopile Smekens"
+                                ]
+                            },
+                            "motivation": [
+                                "painting"
+                            ],
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/nvanderperren/iiif-environment/master/3D/buste_van_theophile_smekens_compressed.glb",
+                                "type": "Model",
+                                "format": "model/gltf-binary"
+                            },
+                            "target": {
+                                "type": "SpecificResource",
+                                "source": [
+                                    {
+                                        "id": "https://nvanderperren.github.io/iiif-environment/manifest/vanherck/scene1",
+                                        "type": "Scene"
+                                    }
+                                ],
+                                "selector": [
+                                    {
+                                        "type": "PointSelector",
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": -0.01
+                                    }
+                                ]
+                            }
                         }
                     ]
                 }
