@@ -103,7 +103,7 @@
             "nl": [
                 "Attributie"
             ],
-            "@none": "Attribution"
+            "@none": ["Attribution"]
         },
         "value": {
             "nl": [
