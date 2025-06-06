@@ -172,7 +172,7 @@
                                 "type": "SpecificResource",
                                 "source": [
                                   {
-                                    "id": "https://nvanderperren.github.io/iiif-environment/manifest/kloosterling/scene1/page/p1",
+                                    "id": "https://nvanderperren.github.io/iiif-environment/manifest/kloosterling/scene1",
                                     "type": "Scene"
                                   }
                                 ],

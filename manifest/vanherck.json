@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/4/context.json",
-    "id": "https://example.org/iiif/3d/model_origin.json",
+    "id": "https://nvanderperren.github.io/iiif-environment/manifest/vanherck.json",
     "type": "Manifest",
     "label": {
         "nl": [
@@ -142,7 +142,7 @@
     ],
     "items": [
         {
-            "id": "https://example.org/iiif/scene1/page/p1/1",
+            "id": "https://nvanderperren.github.io/iiif-environment/manifest/vanherck/scene1",
             "type": "Scene",
             "items": [
                 {
