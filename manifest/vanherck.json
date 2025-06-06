@@ -136,10 +136,10 @@
         },
         "value": {
             "nl": [
-                "Deze objecten bevinden zich in het publieke domein. De 3D-mdoellen worden aangeboden door meemoo, Vlaams instituut voor het Archief"
+                "Aangeboden door meemoo, Vlaams instituut voor het Archief"
             ],
             "@none": [
-                "This objects are in the public domain. The 3D models are provided by meemoo, Flemish Institute for Archives"
+                "Provided by meemoo, Flemish Institute for Archives"
             ]
         }
     },
