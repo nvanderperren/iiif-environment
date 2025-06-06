@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/4/context.json",
-    "id": "https://example.org/iiif/3d/model_origin.json",
+    "id": "https://nvanderperren.github.io/iiif-environment/manifest/kloosterling.json",
     "type": "Manifest",
     "label": {
         "nl": [
@@ -142,7 +142,7 @@
     ],
     "items": [
         {
-            "id": "https://example.org/iiif/scene1/page/p1/1",
+            "id": "https://nvanderperren.github.io/iiif-environment/manifest/kloosterling/scene1",
             "type": "Scene",
             "label": {
                 "nl": [
@@ -154,11 +154,11 @@
             },
             "items": [
                 {
-                    "id": "https://example.org/iiif/scene1/page/p1/1",
+                    "id": "https://nvanderperren.github.io/iiif-environment/manifest/kloosterling/scene1/page/p1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://example.org/iiif/3d/anno1",
+                            "id": "https://nvanderperren.github.io/iiif-environment/manifest/kloosterling/scene1/page/p1/anno1",
                             "type": "Annotation",
                             "motivation": [
                                 "painting"
@@ -168,7 +168,23 @@
                                 "type": "Model",
                                 "format": "model/gltf-binary"
                             },
-                            "target": "https://example.org/iiif/scene1/page/p1/1"
+                            "target": {
+                                "type": "SpecificResource",
+                                "source": [
+                                  {
+                                    "id": "https://nvanderperren.github.io/iiif-environment/manifest/kloosterling/scene1/page/p1",
+                                    "type": "Scene"
+                                  }
+                                ],
+                                "selector": [
+                                  {
+                                    "type": "PointSelector",
+                                    "x": 0.0,
+                                    "y": 0.0,
+                                    "z": 0.0
+                                  }
+                                ]
+                              }
                         }
                     ]
                 }
