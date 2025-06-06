@@ -300,7 +300,7 @@
                                 "selector": [
                                     {
                                         "type": "PointSelector",
-                                        "x": -1.0,
+                                        "x": -0.5,
                                         "y": 0.0,
                                         "z": 0.0
                                     }
@@ -340,7 +340,7 @@
                                 "selector": [
                                     {
                                         "type": "PointSelector",
-                                        "x": 1.0,
+                                        "x": 0.5,
                                         "y": 0.0,
                                         "z": 0.0
                                     }
@@ -382,7 +382,7 @@
                                         "type": "PointSelector",
                                         "x": 0.0,
                                         "y": 0.0,
-                                        "z": -1.0
+                                        "z": -0.5
                                     }
                                 ]
                             }
