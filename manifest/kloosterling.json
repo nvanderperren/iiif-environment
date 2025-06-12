@@ -161,6 +161,7 @@
                     "3D model of this heritage object"
                 ]
             },
+            "backgroundColor": "00C8AA",
             "items": [
                 {
                     "id": "https://nvanderperren.github.io/iiif-environment/manifest/kloosterling/scene1/page/p1",

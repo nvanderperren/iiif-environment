@@ -404,7 +404,8 @@
                         }
                     ]
                 }
-            ]
+            ],
+            "backgroundColor": "00C8AA"
         }
     ]
 }
