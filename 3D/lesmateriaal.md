@@ -12,6 +12,6 @@
 * ["Discovery, nice to be in orbit"](https://fixtures.iiif.io/audio/wikicommons/Nice_to_be_in_orbit/Discovery_-_Nice_to_be_in_orbit.mp3): gesproken woorden vanuit de space shuttle Discovery
   * ondertiteling in het Engels: [https://fixtures.iiif.io/audio/wikicommons/Nice_to_be_in_orbit/Discovery_-_Nice_to_be_in_orbit.mp3.vtt](https://fixtures.iiif.io/audio/wikicommons/Nice_to_be_in_orbit/Discovery_-_Nice_to_be_in_orbit.mp3.vtt)
   * ondertiteling in het Spaans: [https://fixtures.iiif.io/audio/wikicommons/Nice_to_be_in_orbit/Discovery_-_Nice_to_be_in_orbit_ES.mp3.vtt](https://fixtures.iiif.io/audio/wikicommons/Nice_to_be_in_orbit/Discovery_-_Nice_to_be_in_orbit_ES.mp3.vtt)
-* gebruik je graag nog meer historische audio afkomstig van NASA? Je vindt hier een hele collectie MP3's: https://www.nasa.gov/historical-sounds/
+* gebruik je graag nog meer historische audio afkomstig van NASA? Je vindt hier een hele collectie MP3's: [https://www.nasa.gov/historical-sounds/](https://www.nasa.gov/historical-sounds/)
 
 ### Afbeeldingen
