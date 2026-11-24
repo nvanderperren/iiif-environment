@@ -1,0 +1,531 @@
+{
+  "@context": "http://iiif.io/api/presentation/4/context.json",
+  "id": "https://example.org/iiif/3d/3d_scene.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Astronaut with little sculptures"
+    ],
+    "nl": [
+      "Astronaut met kleine sculpturen"
+    ]
+  },
+  "summary": {
+    "en": [
+      "This is a manifest that contains multiple models"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://example.org/iiif/scene1",
+      "type": "Scene",
+      "label": {
+        "en": [
+          "3D Scene"
+        ]
+      },
+      "spatialScale": {
+        "type": "Quantity",
+        "quantityValue": 0.01,
+        "unit": "m"
+      },
+      "backgroundColor": "#33404d",
+      "items": [
+        {
+          "id": "https://example.org/iiif/scene1/page/p1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/iiif/3d/anno1",
+              "type": "Annotation",
+              "motivation": [
+                "painting"
+              ],
+              "body": {
+                "type": "SpecificResource",
+                "id": "https://example.org/iiif/3d/anno1/body",
+                "source": {
+                  "id": "https://example.org/iiif/3d/cameras/1",
+                  "type": "PerspectiveCamera"
+                },
+                "transform": [
+                  {
+                    "type": "RotateTransform",
+                    "x": -8.272389,
+                    "y": 7.247679,
+                    "z": 1.05083
+                  },
+                  {
+                    "type": "TranslateTransform",
+                    "x": -0.916166,
+                    "y": 3.447139,
+                    "z": 2.559576
+                  }
+                ]
+              },
+              "target": {
+                "type": "SpecificResource",
+                "id": "https://example.org/iiif/3d/anno1/target",
+                "source": {
+                  "id": "https://example.org/iiif/scene1",
+                  "type": "Scene"
+                }
+              }
+            },
+            {
+              "id": "https://example.org/iiif/3d/anno2",
+              "type": "Annotation",
+              "motivation": [
+                "painting"
+              ],
+              "body": {
+                "type": "SpecificResource",
+                "id": "https://example.org/iiif/3d/anno2/body",
+                "source": {
+                  "type": "DirectionalLight",
+                  "label": {
+                    "en": [
+                      "directional light 1"
+                    ]
+                  },
+                  "intensity": {
+                    "type": "Quantity",
+                    "quantityValue": 1,
+                    "unit": "relative"
+                  },
+                  "color": "#ffffff",
+                  "id": "https://example.org/iiif/3d/lights/1"
+                },
+                "transform": [
+                  {
+                    "type": "ScaleTransform",
+                    "x": 0.519719,
+                    "y": 0.519719,
+                    "z": 0.519719
+                  },
+                  {
+                    "type": "RotateTransform",
+                    "x": 59.300004,
+                    "y": -0.000001,
+                    "z": 25.000004
+                  },
+                  {
+                    "type": "TranslateTransform",
+                    "x": -1.317857,
+                    "y": 1.442872,
+                    "z": 2.430073
+                  }
+                ]
+              },
+              "target": {
+                "type": "SpecificResource",
+                "id": "https://example.org/iiif/3d/anno2/target",
+                "source": {
+                  "id": "https://example.org/iiif/scene1",
+                  "type": "Scene"
+                }
+              }
+            },
+            {
+              "id": "https://example.org/iiif/3d/anno3",
+              "type": "Annotation",
+              "motivation": [
+                "painting"
+              ],
+              "body": {
+                "type": "SpecificResource",
+                "id": "https://example.org/iiif/3d/anno3/body",
+                "source": {
+                  "type": "DirectionalLight",
+                  "label": {
+                    "en": [
+                      "Shadow Caster #2"
+                    ]
+                  },
+                  "intensity": {
+                    "type": "Quantity",
+                    "quantityValue": 1,
+                    "unit": "relative"
+                  },
+                  "color": "#e6f2ff",
+                  "id": "https://example.org/iiif/3d/lights/2"
+                },
+                "transform": [
+                  {
+                    "type": "ScaleTransform",
+                    "x": 0.519719,
+                    "y": 0.519719,
+                    "z": 0.519719
+                  },
+                  {
+                    "type": "RotateTransform",
+                    "x": 46,
+                    "y": 0.000002,
+                    "z": -49.600004
+                  },
+                  {
+                    "type": "TranslateTransform",
+                    "x": 2.374716,
+                    "y": 1.403933,
+                    "z": 1.453815
+                  }
+                ]
+              },
+              "target": {
+                "type": "SpecificResource",
+                "id": "https://example.org/iiif/3d/anno3/target",
+                "source": {
+                  "id": "https://example.org/iiif/scene1",
+                  "type": "Scene"
+                }
+              }
+            },
+            {
+              "id": "https://example.org/iiif/3d/anno4",
+              "type": "Annotation",
+              "motivation": [
+                "painting"
+              ],
+              "body": {
+                "type": "SpecificResource",
+                "id": "https://example.org/iiif/3d/anno4/body",
+                "source": {
+                  "id": "https://nvanderperren.github.io/iiif-environment/3D/kloosterling_met_rochet_en_mantel.glb",
+                  "type": "Model",
+                  "label": {
+                    "en": [
+                      "kloosterling"
+                    ]
+                  },
+                  "format": "model/gltf-binary"
+                },
+                "transform": [
+                  {
+                    "type": "RotateTransform",
+                    "x": 1.069531,
+                    "y": -0.359749,
+                    "z": -9.964416
+                  },
+                  {
+                    "type": "TranslateTransform",
+                    "x": -0.623432,
+                    "y": 3.152578,
+                    "z": 0.120029
+                  }
+                ]
+              },
+              "target": {
+                "type": "SpecificResource",
+                "id": "https://example.org/iiif/3d/anno4/target",
+                "source": {
+                  "id": "https://example.org/iiif/scene1",
+                  "type": "Scene"
+                }
+              }
+            },
+            {
+              "id": "https://example.org/iiif/3d/anno7",
+              "type": "Annotation",
+              "motivation": [
+                "painting"
+              ],
+              "body": {
+                "type": "SpecificResource",
+                "source": {
+                  "id": "https://example.org/iiif/3d/cameras/2",
+                  "type": "PerspectiveCamera"
+                },
+                "transform": [
+                  {
+                    "type": "ScaleTransform",
+                    "x": 1,
+                    "y": 1,
+                    "z": 1
+                  },
+                  {
+                    "type": "RotateTransform",
+                    "x": 11.762645,
+                    "y": 0.291106,
+                    "z": -0.060616
+                  },
+                  {
+                    "type": "TranslateTransform",
+                    "x": -1.124971,
+                    "y": 1.138421,
+                    "z": 5.248427
+                  }
+                ]
+              },
+              "target": {
+                "id": "https://example.org/iiif/3d/anno7/target",
+                "type": "SpecificResource",
+                "source": {
+                  "id": "https://example.org/iiif/scene1",
+                  "type": "Scene"
+                }
+              }
+            },
+            {
+              "id": "https://example.org/iiif/3d/anno5",
+              "type": "Annotation",
+              "motivation": [
+                "painting"
+              ],
+              "body": {
+                "type": "SpecificResource",
+                "id": "https://example.org/iiif/3d/anno5/body",
+                "source": {
+                  "id": "https://fixtures.iiif.io/3d/google/astronaut.glb",
+                  "type": "Model",
+                  "label": {
+                    "en": [
+                      "astronaut"
+                    ]
+                  },
+                  "format": "model/gltf-binary"
+                },
+                "transform": [
+                  {
+                    "type": "TranslateTransform",
+                    "x": -1.152174,
+                    "y": 0,
+                    "z": 0
+                  }
+                ]
+              },
+              "target": {
+                "type": "SpecificResource",
+                "id": "https://example.org/iiif/3d/anno5/target",
+                "source": {
+                  "id": "https://example.org/iiif/scene1",
+                  "type": "Scene"
+                }
+              }
+            },
+            {
+              "id": "https://example.org/iiif/3d/anno8",
+              "type": "Annotation",
+              "motivation": [
+                "painting"
+              ],
+              "body": {
+                "type": "SpecificResource",
+                "id": "https://example.org/iiif/3d/anno8/body",
+                "source": {
+                  "id": "https://nvanderperren.github.io/iiif-environment/3D/o-l-vrouw_met_het_kind_zittend_op_haar_schoot_compressed.glb",
+                  "type": "Model",
+                  "label": {
+                    "en": [
+                      "vrouw"
+                    ]
+                  },
+                  "format": "model/gltf-binary"
+                },
+                "transform": [
+                  {
+                    "type": "ScaleTransform",
+                    "x": 1,
+                    "y": 1,
+                    "z": 1
+                  },
+                  {
+                    "type": "RotateTransform",
+                    "x": 0.860785,
+                    "y": 3.207343,
+                    "z": -0.105466
+                  },
+                  {
+                    "type": "TranslateTransform",
+                    "x": -1.713552,
+                    "y": 3.120145,
+                    "z": 0.134614
+                  }
+                ]
+              },
+              "target": {
+                "type": "SpecificResource",
+                "id": "https://example.org/iiif/3d/anno8/target",
+                "source": {
+                  "id": "https://example.org/iiif/scene1",
+                  "type": "Scene"
+                }
+              }
+            },
+            {
+              "id": "https://example.org/iiif/3d/anno9",
+              "type": "Annotation",
+              "motivation": [
+                "painting"
+              ],
+              "body": {
+                "type": "SpecificResource",
+                "id": "https://example.org/iiif/3d/anno9/body",
+                "source": {
+                  "id": "https://nvanderperren.github.io/iiif-environment/3D/buste_van_theophile_smekens_compressed.glb",
+                  "type": "Model",
+                  "label": {
+                    "en": [
+                      "smekens"
+                    ]
+                  },
+                  "format": "model/gltf-binary"
+                },
+                "transform": [
+                  {
+                    "type": "TranslateTransform",
+                    "x": -1.154683,
+                    "y": 3.951014,
+                    "z": 0.463352
+                  }
+                ]
+              },
+              "target": {
+                "type": "SpecificResource",
+                "id": "https://example.org/iiif/3d/anno9/target",
+                "source": {
+                  "id": "https://example.org/iiif/scene1",
+                  "type": "Scene"
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://example.org/iiif/scene1/page/p2/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/iiif/3d/anno6",
+              "type": "Annotation",
+              "motivation": [
+                "commenting"
+              ],
+              "body": {
+                "id": "https://example.org/iiif/3d/anno6/body",
+                "type": "List",
+                "items": [
+                  {
+                    "type": "Choice",
+                    "items": [
+                      {
+                        "type": "TextualBody",
+                        "value": "Nice to be in orbit\nVanuit Discovery kan er gepraat worden met de commandopost",
+                        "language": [
+                          "en"
+                        ],
+                        "format": "text/plain",
+                        "position": {
+                          "type": "SpecificResource",
+                          "source": {
+                            "id": "https://example.org/iiif/scene1",
+                            "type": "Scene"
+                          },
+                          "selector": [
+                            {
+                              "type": "PointSelector",
+                              "x": -1.765849,
+                              "y": 3.290616,
+                              "z": 0.884829
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "type": "TextualBody",
+                        "value": "Hallo discovery\nVanuit de Discovery kan er gecommuniceerd worden met de controlekamer",
+                        "language": [
+                          "nl"
+                        ],
+                        "format": "text/plain"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "Choice",
+                    "items": [
+                      {
+                        "id": "https://fixtures.iiif.io/audio/wikicommons/Nice_to_be_in_orbit/Discovery_-_Nice_to_be_in_orbit.mp3",
+                        "type": "Sound",
+                        "label": {
+                          "en": [
+                            "Hello discovery"
+                          ]
+                        },
+                        "language": [
+                          "en"
+                        ],
+                        "format": "audio/mp3",
+                        "duration": "5.616333333333333"
+                      },
+                      {
+                        "id": "https://fixtures.iiif.io/audio/wikicommons/Nice_to_be_in_orbit/Discovery_-_Nice_to_be_in_orbit.mp3",
+                        "type": "Sound",
+                        "label": {
+                          "en": [
+                            "Hello discovery"
+                          ]
+                        },
+                        "language": [
+                          "nl"
+                        ],
+                        "format": "audio/mp3",
+                        "duration": "5.616333333333333"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "Choice",
+                    "items": [
+                      {
+                        "id": "https://fixtures.iiif.io/audio/wikicommons/Nice_to_be_in_orbit/Discovery_-_Nice_to_be_in_orbit.mp3.vtt",
+                        "type": "Text",
+                        "language": [
+                          "en"
+                        ],
+                        "format": "text/vtt",
+                        "duration": "5.616333333333333"
+                      },
+                      {
+                        "id": "https://nvanderperren.github.io/iiif-environment/audio/Discovery_-_Nice_to_be_in_orbit_NL.mp3.vtt",
+                        "type": "Text",
+                        "language": [
+                          "nl"
+                        ],
+                        "format": "text/vtt",
+                        "duration": "5.616333333333333"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "target": {
+                "type": "SpecificResource",
+                "source": {
+                  "id": "https://example.org/iiif/scene1",
+                  "type": "Scene"
+                },
+                "selector": [
+                  {
+                    "type": "PointSelector",
+                    "x": -1.402068,
+                    "y": 3.367896,
+                    "z": 0.581364
+                  }
+                ],
+                "id": "https://example.org/iiif/3d/anno5/target"
+              },
+              "scope": [
+                {
+                  "id": "https://example.org/iiif/3d/anno7",
+                  "type": "Annotation"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
